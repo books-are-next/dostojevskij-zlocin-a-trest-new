@@ -1,6 +1,6 @@
 ---
-title: ''
+title: ČÁST ŠESTÁ
 contentType: prose
 ---
 
-ČÁST ŠESTÁ
+

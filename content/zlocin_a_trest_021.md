@@ -1,6 +1,6 @@
 ---
-title: ''
+title: ČÁST TŘETÍ
 contentType: prose
 ---
 
-ČÁST TŘETÍ
+
