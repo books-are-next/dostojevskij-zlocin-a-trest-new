@@ -1,6 +1,6 @@
 ---
-title: ''
+title: ČÁST PÁTÁ
 contentType: prose
 ---
 
-ČÁST PÁTÁ
+

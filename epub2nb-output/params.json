@@ -1,14 +1,18 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Zločin a trest",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Fjodor Michajlovič Dostojevskij",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2020-01-14T00:00:00.000Z"
+      "modified": "2020-01-14T00:00:00.000Z",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "title": "MLP-uroven2-kapitola\nMLP-uroven1-cast",
       "subtitle": "",
       "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
       "h3": "",
@@ -21,7 +25,7 @@
       "brAfter": "",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat\nMLP-dopis-podpis--I",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
       "remove": "",
       "ignore": ""
@@ -30,17 +34,19 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "zlocin_a_trest_001.md",
             "xhtml": "zlocin_a_trest_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zlocin_a_trest_002.md",
@@ -48,32 +54,35 @@
             "id": 1,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zlocin_a_trest_003.md",
             "xhtml": "zlocin_a_trest_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zlocin_a_trest_004.md",
             "xhtml": "zlocin_a_trest_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zlocin_a_trest_005.md",
@@ -84,7 +93,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "ČÁST PRVNÍ"
           },
           {
             "filename": "zlocin_a_trest_006.md",
@@ -95,7 +106,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "1"
           },
           {
             "filename": "zlocin_a_trest_007.md",
@@ -106,7 +119,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "2"
           },
           {
             "filename": "zlocin_a_trest_008.md",
@@ -117,7 +132,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "3"
           },
           {
             "filename": "zlocin_a_trest_009.md",
@@ -128,7 +145,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "4"
           },
           {
             "filename": "zlocin_a_trest_010.md",
@@ -139,7 +158,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "5"
           },
           {
             "filename": "zlocin_a_trest_011.md",
@@ -150,7 +171,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "6"
           },
           {
             "filename": "zlocin_a_trest_012.md",
@@ -161,7 +184,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "7"
           },
           {
             "filename": "zlocin_a_trest_013.md",
@@ -172,7 +197,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "ČÁST DRUHÁ"
           },
           {
             "filename": "zlocin_a_trest_014.md",
@@ -183,7 +210,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "1"
           },
           {
             "filename": "zlocin_a_trest_015.md",
@@ -194,7 +223,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "2"
           },
           {
             "filename": "zlocin_a_trest_016.md",
@@ -205,7 +236,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "3"
           },
           {
             "filename": "zlocin_a_trest_017.md",
@@ -216,7 +249,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "4"
           },
           {
             "filename": "zlocin_a_trest_018.md",
@@ -227,7 +262,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "5"
           },
           {
             "filename": "zlocin_a_trest_019.md",
@@ -238,7 +275,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "6"
           },
           {
             "filename": "zlocin_a_trest_020.md",
@@ -249,7 +288,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "7"
           },
           {
             "filename": "zlocin_a_trest_021.md",
@@ -260,7 +301,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "ČÁST TŘETÍ"
           },
           {
             "filename": "zlocin_a_trest_022.md",
@@ -271,7 +314,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "1"
           },
           {
             "filename": "zlocin_a_trest_023.md",
@@ -282,7 +327,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "2"
           },
           {
             "filename": "zlocin_a_trest_024.md",
@@ -293,7 +340,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "3"
           },
           {
             "filename": "zlocin_a_trest_025.md",
@@ -304,7 +353,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "4"
           },
           {
             "filename": "zlocin_a_trest_026.md",
@@ -315,7 +366,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "5"
           },
           {
             "filename": "zlocin_a_trest_027.md",
@@ -326,7 +379,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "6"
           },
           {
             "filename": "zlocin_a_trest_028.md",
@@ -337,7 +392,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "ČÁST ČTVRTÁ"
           },
           {
             "filename": "zlocin_a_trest_029.md",
@@ -348,7 +405,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "1"
           },
           {
             "filename": "zlocin_a_trest_030.md",
@@ -359,7 +418,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "2"
           },
           {
             "filename": "zlocin_a_trest_031.md",
@@ -370,7 +431,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "3"
           },
           {
             "filename": "zlocin_a_trest_032.md",
@@ -381,7 +444,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "4"
           },
           {
             "filename": "zlocin_a_trest_033.md",
@@ -392,7 +457,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "5"
           },
           {
             "filename": "zlocin_a_trest_034.md",
@@ -403,7 +470,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "6"
           },
           {
             "filename": "zlocin_a_trest_035.md",
@@ -414,7 +483,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "ČÁST PÁTÁ"
           },
           {
             "filename": "zlocin_a_trest_036.md",
@@ -425,7 +496,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "1"
           },
           {
             "filename": "zlocin_a_trest_037.md",
@@ -436,7 +509,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "2"
           },
           {
             "filename": "zlocin_a_trest_038.md",
@@ -447,7 +522,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "3"
           },
           {
             "filename": "zlocin_a_trest_039.md",
@@ -458,7 +535,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "4"
           },
           {
             "filename": "zlocin_a_trest_040.md",
@@ -469,7 +548,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "5"
           },
           {
             "filename": "zlocin_a_trest_041.md",
@@ -480,7 +561,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "ČÁST ŠESTÁ"
           },
           {
             "filename": "zlocin_a_trest_042.md",
@@ -491,7 +574,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "1"
           },
           {
             "filename": "zlocin_a_trest_043.md",
@@ -502,7 +587,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "2"
           },
           {
             "filename": "zlocin_a_trest_044.md",
@@ -513,7 +600,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "3"
           },
           {
             "filename": "zlocin_a_trest_045.md",
@@ -524,7 +613,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "4"
           },
           {
             "filename": "zlocin_a_trest_046.md",
@@ -535,7 +626,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "5"
           },
           {
             "filename": "zlocin_a_trest_047.md",
@@ -546,7 +639,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "6"
           },
           {
             "filename": "zlocin_a_trest_048.md",
@@ -557,7 +652,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "7"
           },
           {
             "filename": "zlocin_a_trest_049.md",
@@ -568,7 +665,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "8"
           },
           {
             "filename": "zlocin_a_trest_050.md",
@@ -579,7 +678,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "EPILOG"
           },
           {
             "filename": "zlocin_a_trest_051.md",
@@ -590,7 +691,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "1"
           },
           {
             "filename": "zlocin_a_trest_052.md",
@@ -601,18 +704,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "2"
           },
           {
             "filename": "zlocin_a_trest_053.md",
             "xhtml": "zlocin_a_trest_053.xhtml",
             "id": 52,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -652,7 +758,7 @@
         "xhtml": "zlocin_a_trest_004.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "ČÁST PRVNÍ",
         "subtitleSuggest": "",
         "filename": "zlocin_a_trest_005.md",
         "xhtml": "zlocin_a_trest_005.xhtml"
@@ -700,7 +806,7 @@
         "xhtml": "zlocin_a_trest_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "ČÁST DRUHÁ",
         "subtitleSuggest": "",
         "filename": "zlocin_a_trest_013.md",
         "xhtml": "zlocin_a_trest_013.xhtml"
@@ -748,7 +854,7 @@
         "xhtml": "zlocin_a_trest_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "ČÁST TŘETÍ",
         "subtitleSuggest": "",
         "filename": "zlocin_a_trest_021.md",
         "xhtml": "zlocin_a_trest_021.xhtml"
@@ -790,7 +896,7 @@
         "xhtml": "zlocin_a_trest_027.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "ČÁST ČTVRTÁ",
         "subtitleSuggest": "",
         "filename": "zlocin_a_trest_028.md",
         "xhtml": "zlocin_a_trest_028.xhtml"
@@ -832,7 +938,7 @@
         "xhtml": "zlocin_a_trest_034.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "ČÁST PÁTÁ",
         "subtitleSuggest": "",
         "filename": "zlocin_a_trest_035.md",
         "xhtml": "zlocin_a_trest_035.xhtml"
@@ -868,7 +974,7 @@
         "xhtml": "zlocin_a_trest_040.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "ČÁST ŠESTÁ",
         "subtitleSuggest": "",
         "filename": "zlocin_a_trest_041.md",
         "xhtml": "zlocin_a_trest_041.xhtml"
@@ -922,7 +1028,7 @@
         "xhtml": "zlocin_a_trest_049.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "EPILOG",
         "subtitleSuggest": "",
         "filename": "zlocin_a_trest_050.md",
         "xhtml": "zlocin_a_trest_050.xhtml"
@@ -1026,6 +1132,6 @@
       "user": "books-are-next",
       "repo": "dostojevskij-zlocin-a-trest-new"
     },
-    "generatedAt": 1651833149582
+    "generatedAt": 1651833795867
   }
 }

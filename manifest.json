@@ -1,0 +1,1030 @@
+{
+  "author": "Fjodor Michajlovič Dostojevskij",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "dostojevskij-zlocin-a-trest-501bc8a",
+  "languagecode": "cs",
+  "modified": "2020-01-14T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Zločin a trest",
+  "revision": "501bc8a",
+  "generatedAt": {
+    "date": "Fri May 06 2022 10:44:01 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1651833841696
+  },
+  "documents": [
+    {
+      "title": "Zločin a trest",
+      "file": "zlocin_a_trest_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "zlocin_a_trest_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ČÁST PRVNÍ • Zločin a trest",
+      "file": "zlocin_a_trest_005.html",
+      "words": 2,
+      "chars": 10,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "zlocin_a_trest_002.html",
+      "next": "zlocin_a_trest_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ČÁST PRVNÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1 • Zločin a trest",
+      "file": "zlocin_a_trest_006.html",
+      "words": 2521,
+      "chars": 15323,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 2,
+      "prev": "zlocin_a_trest_005.html",
+      "next": "zlocin_a_trest_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2 • Zločin a trest",
+      "file": "zlocin_a_trest_007.html",
+      "words": 5656,
+      "chars": 33910,
+      "ideas": 58,
+      "role": "chapter",
+      "order": 3,
+      "prev": "zlocin_a_trest_006.html",
+      "next": "zlocin_a_trest_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3 • Zločin a trest",
+      "file": "zlocin_a_trest_008.html",
+      "words": 4454,
+      "chars": 25827,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 4,
+      "prev": "zlocin_a_trest_007.html",
+      "next": "zlocin_a_trest_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4 • Zločin a trest",
+      "file": "zlocin_a_trest_009.html",
+      "words": 4197,
+      "chars": 24270,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 5,
+      "prev": "zlocin_a_trest_008.html",
+      "next": "zlocin_a_trest_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5 • Zločin a trest",
+      "file": "zlocin_a_trest_010.html",
+      "words": 3276,
+      "chars": 19299,
+      "ideas": 69,
+      "role": "chapter",
+      "order": 6,
+      "prev": "zlocin_a_trest_009.html",
+      "next": "zlocin_a_trest_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6 • Zločin a trest",
+      "file": "zlocin_a_trest_011.html",
+      "words": 3992,
+      "chars": 23771,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 7,
+      "prev": "zlocin_a_trest_010.html",
+      "next": "zlocin_a_trest_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7 • Zločin a trest",
+      "file": "zlocin_a_trest_012.html",
+      "words": 3715,
+      "chars": 21792,
+      "ideas": 80,
+      "role": "chapter",
+      "order": 8,
+      "prev": "zlocin_a_trest_011.html",
+      "next": "zlocin_a_trest_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ČÁST DRUHÁ • Zločin a trest",
+      "file": "zlocin_a_trest_013.html",
+      "words": 2,
+      "chars": 10,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 9,
+      "prev": "zlocin_a_trest_012.html",
+      "next": "zlocin_a_trest_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ČÁST DRUHÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1 • Zločin a trest",
+      "file": "zlocin_a_trest_014.html",
+      "words": 5560,
+      "chars": 33126,
+      "ideas": 140,
+      "role": "chapter",
+      "order": 10,
+      "prev": "zlocin_a_trest_013.html",
+      "next": "zlocin_a_trest_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2 • Zločin a trest",
+      "file": "zlocin_a_trest_015.html",
+      "words": 3633,
+      "chars": 20800,
+      "ideas": 66,
+      "role": "chapter",
+      "order": 11,
+      "prev": "zlocin_a_trest_014.html",
+      "next": "zlocin_a_trest_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3 • Zločin a trest",
+      "file": "zlocin_a_trest_016.html",
+      "words": 4541,
+      "chars": 26865,
+      "ideas": 118,
+      "role": "chapter",
+      "order": 12,
+      "prev": "zlocin_a_trest_015.html",
+      "next": "zlocin_a_trest_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4 • Zločin a trest",
+      "file": "zlocin_a_trest_017.html",
+      "words": 3737,
+      "chars": 21117,
+      "ideas": 78,
+      "role": "chapter",
+      "order": 13,
+      "prev": "zlocin_a_trest_016.html",
+      "next": "zlocin_a_trest_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5 • Zločin a trest",
+      "file": "zlocin_a_trest_018.html",
+      "words": 3535,
+      "chars": 22019,
+      "ideas": 112,
+      "role": "chapter",
+      "order": 14,
+      "prev": "zlocin_a_trest_017.html",
+      "next": "zlocin_a_trest_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6 • Zločin a trest",
+      "file": "zlocin_a_trest_019.html",
+      "words": 6349,
+      "chars": 37769,
+      "ideas": 214,
+      "role": "chapter",
+      "order": 15,
+      "prev": "zlocin_a_trest_018.html",
+      "next": "zlocin_a_trest_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7 • Zločin a trest",
+      "file": "zlocin_a_trest_020.html",
+      "words": 5785,
+      "chars": 34488,
+      "ideas": 148,
+      "role": "chapter",
+      "order": 16,
+      "prev": "zlocin_a_trest_019.html",
+      "next": "zlocin_a_trest_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ČÁST TŘETÍ • Zločin a trest",
+      "file": "zlocin_a_trest_021.html",
+      "words": 2,
+      "chars": 10,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 17,
+      "prev": "zlocin_a_trest_020.html",
+      "next": "zlocin_a_trest_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ČÁST TŘETÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1 • Zločin a trest",
+      "file": "zlocin_a_trest_022.html",
+      "words": 4424,
+      "chars": 26408,
+      "ideas": 88,
+      "role": "chapter",
+      "order": 18,
+      "prev": "zlocin_a_trest_021.html",
+      "next": "zlocin_a_trest_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2 • Zločin a trest",
+      "file": "zlocin_a_trest_023.html",
+      "words": 3928,
+      "chars": 23523,
+      "ideas": 82,
+      "role": "chapter",
+      "order": 19,
+      "prev": "zlocin_a_trest_022.html",
+      "next": "zlocin_a_trest_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3 • Zločin a trest",
+      "file": "zlocin_a_trest_024.html",
+      "words": 4368,
+      "chars": 25933,
+      "ideas": 141,
+      "role": "chapter",
+      "order": 20,
+      "prev": "zlocin_a_trest_023.html",
+      "next": "zlocin_a_trest_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4 • Zločin a trest",
+      "file": "zlocin_a_trest_025.html",
+      "words": 3711,
+      "chars": 21939,
+      "ideas": 124,
+      "role": "chapter",
+      "order": 21,
+      "prev": "zlocin_a_trest_024.html",
+      "next": "zlocin_a_trest_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5 • Zločin a trest",
+      "file": "zlocin_a_trest_026.html",
+      "words": 6270,
+      "chars": 37930,
+      "ideas": 165,
+      "role": "chapter",
+      "order": 22,
+      "prev": "zlocin_a_trest_025.html",
+      "next": "zlocin_a_trest_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6 • Zločin a trest",
+      "file": "zlocin_a_trest_027.html",
+      "words": 3643,
+      "chars": 21385,
+      "ideas": 67,
+      "role": "chapter",
+      "order": 23,
+      "prev": "zlocin_a_trest_026.html",
+      "next": "zlocin_a_trest_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ČÁST ČTVRTÁ • Zločin a trest",
+      "file": "zlocin_a_trest_028.html",
+      "words": 2,
+      "chars": 11,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 24,
+      "prev": "zlocin_a_trest_027.html",
+      "next": "zlocin_a_trest_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ČÁST ČTVRTÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1 • Zločin a trest",
+      "file": "zlocin_a_trest_029.html",
+      "words": 4314,
+      "chars": 25701,
+      "ideas": 130,
+      "role": "chapter",
+      "order": 25,
+      "prev": "zlocin_a_trest_028.html",
+      "next": "zlocin_a_trest_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2 • Zločin a trest",
+      "file": "zlocin_a_trest_030.html",
+      "words": 3915,
+      "chars": 23905,
+      "ideas": 111,
+      "role": "chapter",
+      "order": 26,
+      "prev": "zlocin_a_trest_029.html",
+      "next": "zlocin_a_trest_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3 • Zločin a trest",
+      "file": "zlocin_a_trest_031.html",
+      "words": 2654,
+      "chars": 15699,
+      "ideas": 63,
+      "role": "chapter",
+      "order": 27,
+      "prev": "zlocin_a_trest_030.html",
+      "next": "zlocin_a_trest_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4 • Zločin a trest",
+      "file": "zlocin_a_trest_032.html",
+      "words": 5229,
+      "chars": 30264,
+      "ideas": 178,
+      "role": "chapter",
+      "order": 28,
+      "prev": "zlocin_a_trest_031.html",
+      "next": "zlocin_a_trest_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5 • Zločin a trest",
+      "file": "zlocin_a_trest_033.html",
+      "words": 6569,
+      "chars": 39565,
+      "ideas": 92,
+      "role": "chapter",
+      "order": 29,
+      "prev": "zlocin_a_trest_032.html",
+      "next": "zlocin_a_trest_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6 • Zločin a trest",
+      "file": "zlocin_a_trest_034.html",
+      "words": 2440,
+      "chars": 14329,
+      "ideas": 103,
+      "role": "chapter",
+      "order": 30,
+      "prev": "zlocin_a_trest_033.html",
+      "next": "zlocin_a_trest_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ČÁST PÁTÁ • Zločin a trest",
+      "file": "zlocin_a_trest_035.html",
+      "words": 2,
+      "chars": 9,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 31,
+      "prev": "zlocin_a_trest_034.html",
+      "next": "zlocin_a_trest_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ČÁST PÁTÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1 • Zločin a trest",
+      "file": "zlocin_a_trest_036.html",
+      "words": 5815,
+      "chars": 35446,
+      "ideas": 91,
+      "role": "chapter",
+      "order": 32,
+      "prev": "zlocin_a_trest_035.html",
+      "next": "zlocin_a_trest_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2 • Zločin a trest",
+      "file": "zlocin_a_trest_037.html",
+      "words": 4518,
+      "chars": 27983,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 33,
+      "prev": "zlocin_a_trest_036.html",
+      "next": "zlocin_a_trest_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3 • Zločin a trest",
+      "file": "zlocin_a_trest_038.html",
+      "words": 4864,
+      "chars": 29466,
+      "ideas": 75,
+      "role": "chapter",
+      "order": 34,
+      "prev": "zlocin_a_trest_037.html",
+      "next": "zlocin_a_trest_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4 • Zločin a trest",
+      "file": "zlocin_a_trest_039.html",
+      "words": 5661,
+      "chars": 32245,
+      "ideas": 169,
+      "role": "chapter",
+      "order": 35,
+      "prev": "zlocin_a_trest_038.html",
+      "next": "zlocin_a_trest_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5 • Zločin a trest",
+      "file": "zlocin_a_trest_040.html",
+      "words": 4324,
+      "chars": 26106,
+      "ideas": 112,
+      "role": "chapter",
+      "order": 36,
+      "prev": "zlocin_a_trest_039.html",
+      "next": "zlocin_a_trest_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ČÁST ŠESTÁ • Zločin a trest",
+      "file": "zlocin_a_trest_041.html",
+      "words": 2,
+      "chars": 10,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 37,
+      "prev": "zlocin_a_trest_040.html",
+      "next": "zlocin_a_trest_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ČÁST ŠESTÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1 • Zločin a trest",
+      "file": "zlocin_a_trest_042.html",
+      "words": 3304,
+      "chars": 19274,
+      "ideas": 56,
+      "role": "chapter",
+      "order": 38,
+      "prev": "zlocin_a_trest_041.html",
+      "next": "zlocin_a_trest_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2 • Zločin a trest",
+      "file": "zlocin_a_trest_043.html",
+      "words": 5065,
+      "chars": 29439,
+      "ideas": 62,
+      "role": "chapter",
+      "order": 39,
+      "prev": "zlocin_a_trest_042.html",
+      "next": "zlocin_a_trest_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3 • Zločin a trest",
+      "file": "zlocin_a_trest_044.html",
+      "words": 3258,
+      "chars": 19406,
+      "ideas": 78,
+      "role": "chapter",
+      "order": 40,
+      "prev": "zlocin_a_trest_043.html",
+      "next": "zlocin_a_trest_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4 • Zločin a trest",
+      "file": "zlocin_a_trest_045.html",
+      "words": 3925,
+      "chars": 23126,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 41,
+      "prev": "zlocin_a_trest_044.html",
+      "next": "zlocin_a_trest_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5 • Zločin a trest",
+      "file": "zlocin_a_trest_046.html",
+      "words": 4636,
+      "chars": 27562,
+      "ideas": 129,
+      "role": "chapter",
+      "order": 42,
+      "prev": "zlocin_a_trest_045.html",
+      "next": "zlocin_a_trest_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6 • Zločin a trest",
+      "file": "zlocin_a_trest_047.html",
+      "words": 4601,
+      "chars": 27581,
+      "ideas": 54,
+      "role": "chapter",
+      "order": 43,
+      "prev": "zlocin_a_trest_046.html",
+      "next": "zlocin_a_trest_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7 • Zločin a trest",
+      "file": "zlocin_a_trest_048.html",
+      "words": 3139,
+      "chars": 17711,
+      "ideas": 82,
+      "role": "chapter",
+      "order": 44,
+      "prev": "zlocin_a_trest_047.html",
+      "next": "zlocin_a_trest_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "8 • Zločin a trest",
+      "file": "zlocin_a_trest_049.html",
+      "words": 3363,
+      "chars": 19538,
+      "ideas": 82,
+      "role": "chapter",
+      "order": 45,
+      "prev": "zlocin_a_trest_048.html",
+      "next": "zlocin_a_trest_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "8",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "EPILOG • Zločin a trest",
+      "file": "zlocin_a_trest_050.html",
+      "words": 1,
+      "chars": 6,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 46,
+      "prev": "zlocin_a_trest_049.html",
+      "next": "zlocin_a_trest_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "EPILOG",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1 • Zločin a trest",
+      "file": "zlocin_a_trest_051.html",
+      "words": 2648,
+      "chars": 16494,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 47,
+      "prev": "zlocin_a_trest_050.html",
+      "next": "zlocin_a_trest_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2 • Zločin a trest",
+      "file": "zlocin_a_trest_052.html",
+      "words": 2770,
+      "chars": 16338,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 48,
+      "prev": "zlocin_a_trest_051.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Zločin a trest",
+      "file": "colophon.html",
+      "words": 157,
+      "chars": 1050,
+      "ideas": 24,
+      "role": "colophon",
+      "order": null,
+      "prev": "zlocin_a_trest_052.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 174485,
+      "chars": 1035844,
+      "ideas": 3769
+    },
+    "chapters": {
+      "words": 174320,
+      "chars": 1034738,
+      "ideas": 3741
+    }
+  }
+}
