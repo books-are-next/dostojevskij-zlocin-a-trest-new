@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - zlocin_a_trest_002.html
+  - promo.html
   - zlocin_a_trest_005.html
   - zlocin_a_trest_006.html
   - zlocin_a_trest_007.html
