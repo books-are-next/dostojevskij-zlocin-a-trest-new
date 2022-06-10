@@ -3,8 +3,6 @@ title: '4'
 contentType: prose
 ---
 
-  
-
 Matčin dopis ho zdrtil. Nicméně o jeho hlavním, ústředním bodu nebyl ani okamžik na pochybách, už když dopis četl. Zásadní rozhodnutí se mu rýsovalo v hlavě s konečnou platností: Ne! K tomu sňatku, dokud žiju já, nedojde! A celý pan Lužin ať táhne k čertu!
 
 Protože to je nad slunce jasnější, bručel si s úsměškem a zachmuřeně se už napřed kochal úspěchem svého předsevzetí. Kdežpak, maminko, kdežpak, Duňo, mě neošidíte…! A těch omluv, že mě ani nepožádaly o radu a že všecko rozhodly samy! Bodejť! Myslí si, že teď už to nejde zrušit, ale na to se ještě podíváme, jestli jde, nebo nejde! A ta jejich kolosální výmluva, to jejich: „Petr Petrovič je tak zaměstnaný člověk, tak úžasně zaměstnaný člověk, že i ženit se bude v kalupu, jednou nohou ve vlaku!“ Kdežpak, Duněčko, já vím, moc dobře vím, o čem se mnou musíš _tolik_ mluvit i o čem jsi přemýšlela celou tu noc, když jsi přecházela po pokoji, i zač ses modlila ke Kazaňské Bohorodičce v maminčině ložnici. Komupak se jde lehce na Golgotu? Hm… Tak tedy, vaše rozhodnutí je konečné, Avdoťjo Romanovno, uráčila jste se provdat za praktického a racio­nálního muže, který má vlastní jmění (který už má vlastní jmění, to zní solidněji a okázaleji), který má dvojí zaměstnání a je stoupencem názorů naší moderní generace (jak píše maminka). A _zdá se_ hodný, jak podotýká sama Duněčka. To _zdá se_ je na tom všem nejpodařenější! Tak s tímhle _zdá se_ bude mít Duněčka svatbu…! Podařené! Vskutku podařené!

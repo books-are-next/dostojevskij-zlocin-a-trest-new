@@ -3,8 +3,6 @@ title: '4'
 contentType: prose
 ---
 
-  
-
 A Raskolnikov zamířil rovnou k domu u průplavu, kde bydlela Soňa. Byl to starý dvoupatrový, zeleně natřený dům. Raskolnikov pracně sehnal domovníka a od něho se neurčitě dověděl, kde má hledat byt krejčího Kapernaumova. Když vypátral v koutě na dvoře vchod na úzké tmavé schodiště, vyšel konečně do poschodí a na pavlač vedoucí do dvora. Zatímco bezradně chodil sem a tam a pátral, kde by mohl být vchod ke Kapernaumovovi, otevřely se náhle asi tři kroky od něho jedny dveře; mechanicky za ně vzal.
 
 „Kdo je to?“ zeptal se polekaně ženský hlas.

@@ -3,8 +3,6 @@ title: '1'
 contentType: prose
 ---
 
-  
-
 Raskolnikov se pozvedl a posadil se na divanu. Slabým posunkem naznačil Razumichinovi, aby zarazil příval svých zmatených a horlivých útěch, jež chrlil na matku a na sestru, vzal obě za ruce a dlouho mlčky upíral zrak hned na tu, hned na onu. Matku jeho pohled polekal. Četla v tom pohledu až mučivě silný cit, ale zároveň v něm bylo cosi strnule utkvělého, skoro nepříčetného. Pulcherija Alexandrovna se rozplakala.
 
 Duněčka byla bledá, její ruka v bratrově ruce se chvěla.

@@ -3,8 +3,6 @@ title: '2'
 contentType: prose
 ---
 
-  
-
 „Tohle kouření,“ začal konečně Porfirij Petrovič, když si zapálil a vyfoukl kouř, „je přece tak škodlivá, tak strašně škodlivá věc, a přesto se to nemohu odnaučit! Víte, kašlu, v krku mě svědí, dech mě zlobí. Jsem strašpytel, rozumíte, tak jsem tuhle zašel k B-novi, každého pacienta prohlíží minimum půl hodiny, skoro se rozesmál, když mě uviděl a proklepával, poslouchal. Mezi jiným, povídá, vám nesvědčí tabák, máte rozedmu plic. Ale jakpak s tím mohu přestat? Čím to nahradím? Nepiju, to je celé to neštěstí, hehehe, to je to neštěstí! Všecko máte přece relativní, Rodione Romanyči, všecko máte relativní!“
 
 Copak na mne zas půjde s tou svou plesnivou právničinou? pomyslel si s odporem Raskolnikov. Náhle mu vyvstalo před očima jejich nedávné setkání a nitro se mu rázem rozbouřilo jako tehdy.

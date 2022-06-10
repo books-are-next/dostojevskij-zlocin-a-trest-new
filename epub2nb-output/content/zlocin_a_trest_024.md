@@ -3,8 +3,6 @@ title: '3'
 contentType: prose
 ---
 
-  
-
 „Je zdráv! Zdráv,“ uvítal vcházející vesele Zosimov. Přišel už před dobrými deseti minutami a seděl na konci divanu jako včera. Raskolnikov seděl na druhém konci úplně oblečený, dokonce pečlivě vymydlený a učesaný, jako už dávno nebyl. Pokojík se naráz zaplnil, ale Nastasje se přesto ještě podařilo vklouznout za návštěvníky a poslouchat.
 
 Raskolnikov byl skutečně skoro zdráv, zejména proti včerejšku, byl jen velmi bledý, roztržitý a zachmuřený. Zevnějškem připomínal člověka raněného nebo trpícího silnou fyzickou bolestí: svraštěné obočí, sevřené rty, žhavý pohled. Mluvil skoupě a neochotně, jako by se přemáhal nebo plnil nepříjemnou povinnost, a jeho pohyby chvílemi prozrazovaly zvláštní neklid.

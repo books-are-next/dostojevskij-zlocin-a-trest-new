@@ -3,8 +3,6 @@ title: '7'
 contentType: prose
 ---
 
-  
-
 Téhož dne, ale už k večeru, po šesté hodině, se Raskolnikov blížil k domu, v němž bydlely matka a sestra, k onomu Bakalejevovu domu, v němž jim našel byt Razumichin. Na jejich schodiště se vcházelo z ulice. Raskolnikov se k domu blížil nerozhodným krokem, jako by pořád ještě váhal, má-li, nebo nemá-li vejít. Ale nebyl by se vrátil za nic na světě, byl už pevně rozhodnut. Stejně na tom nezáleží, vždyť ještě nic netuší, přemítal, a o mně už vědí, že jsem podivín… Vypadal hrozně: šaty měl zablácené, jak v nich celou noc chodil v dešti, potrhané a zhuntované. Obličej měl ztrhaný únavou, nečasem, fyzickým vysílením a skoro celodenním vnitřním zápasem. Celou noc chodil bůh sám ví kde. Ale byl rozhodnut.
 
 Zaklepal na dveře. Otevřela mu matka. Duněčka nebyla doma. Ani služka náhodou nebyla doma. Pulcherija Alexandrovna v první chvíli ze sebe nemohla radostí vypravit ani slovo, ale pak ho chytila za ruku a táhla ho do pokoje.

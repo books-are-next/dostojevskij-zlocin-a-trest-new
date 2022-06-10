@@ -3,8 +3,6 @@ title: '2'
 contentType: prose
 ---
 
-  
-
 Byl nemocný už dlouho; nezlomily ho však hrůzy trestaneckého života ani těžká práce, ani strava, dohola ostříhaná hlava ani to, že nosil hadry místo obleku: ach, jak málo si dělal ze všech těch útrap a strázní! Naopak, pracoval dokonce rád: fyzické vyčerpání mu přinášelo alespoň několik hodin klidného spánku. A co pro něho znamenala strava, ty řídké polévky se šváby? Kdysi jako student často nemíval ani to. Oděv měl teplý, přizpůsobený životu, který musel vést. Okovy na sobě téměř necítil. Měl se snad stydět za svou holou hlavu a sešívaný trestanecký kabát? Ale před kým? Před Soňou? Soňa se ho bojí a mimoto před ní se přece nemá zač stydět!
 
 A přece se styděl i před Soňou a trápil ji za to svým přezíravým a hrubým jednáním. Nestyděl se však za holou hlavu ani za okovy – byl smrtelně zasažený ve své pýše a z uražené pýchy se posléze i rozstonal. Jak by byl býval šťasten, kdyby mohl sám sebe obvinit! To by byl snesl všecko, i stud a hanbu. Ale přestože se soudil přísně, jeho zatvrzelé svědomí neshledalo ve vlastní minulosti žádnou tak hroznou vinu, snad jen obyčejnou chybu, jíž se mohl dopustit kdekdo. Styděl se právě za to, že on, Raskolnikov, se zničil tak slepě, beznadějně, uboze a hloupě jen z vůle slepého osudu, a že chce-li se aspoň trochu uklidnit, musí se sklonit a pokořit před „nesmyslností“ nějakého rozsudku.

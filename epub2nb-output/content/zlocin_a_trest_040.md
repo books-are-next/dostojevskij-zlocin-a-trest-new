@@ -3,8 +3,6 @@ title: '5'
 contentType: prose
 ---
 
-  
-
 Lebezjatnikov se tvářil vyděšeně. „Jdu za vámi, Sofjo Semjonovno. Promiňte… Hned jsem si myslel, že vás zde zastihnu,“ obrátil se náhle na Raskolnikova. „Totiž nic jsem si nemyslel… nic takového… myslel jsem jenom, že…“ Ale náhle se od Raskolnikova odvrátil a bez dlouhých úvodů řekl Soně: „Katěrina Ivanovna nám tam zešílela.“
 
 Soňa vykřikla.
@@ -89,6 +87,8 @@ A sama div ne s pláčem (který jí nevadil v nepřetržitém a ne­únavn�
 
 „Penzionátu, hahaha! Až naprší a uschne!“ rozesmála se Katěrina Ivanovna, ale hned se schváceně rozkašlala. „Kdepak, Rodione Romanyči, ten sen je pryč! Všichni nás nechali na holičkách…! A ten prašivý generál… Víte, Rodione Romanyči, že jsem po něm hodila kalamářem? Byl tam v předsíni při ruce vedle podpisového archu, tak jsem se taky podepsala, a pak jsem ho po něm hodila a utekla jsem. Ach, ničemové, ničemové! Ale co je mi po kom, teď je budu živit sama, nebudu před nikým klekat! Už jsme se jí dost natrápili!“ Ukázala na Soňu. „Polječko, kolik jste vybrali, ukaž! Co? Jenom dvě kopějky? Hnusní lidé! Nic nedají, jen za námi běhají s vyplazenými jazyky! Pročpak se tamhleten ťulpas tak šklebí?“ Ukázala na někoho v davu. „To všecko proto, že ten Kolja je takové dřevo, to je hrůza! Co je ti, Polječko? Mluv se mnou francouzsky, _parlez moi français!_ Učila jsem tě přece, znáš přece několik vět…! Jak jinak jim ukážeme, že jste z lepší rodiny, že jste dobře vychované děti, a ne nějací obyčejní flašinetáři, že neděláme na ulici ledajaké kašpary, ale zpíváme vybrané romance… Ach tak! Copak budeme zpívat? Pořád mě přerušujete a my… víte, zastavili jsme se tu proto, abychom se dohodli, co máme zpívat, něco takového, při čem by mohl Kolja zároveň tancovat… protože, vám to ani nemusím říkat, tohle všecko děláme bez přípravy, musíme se domluvit a všecko si jaksepatří nacvičit a pak půjdeme na Něvský, tam je mnohem víc lepších lidí a tam si nás hned všimnou. Leňa zná Na samotě… pořád jen Na samotě, Na samotě, to zpívá kdekdo! My musíme zpívat něco mnohem vybranějšího… Tak copak sis vymyslela, Poljo, aspoň ty mamince pomoz! Ta paměť, ta moje paměť, jinak bych si vzpomněla! Nebudeme přece zpívat Husar šavli tasí! Pojďte, zazpíváme francouzsky Cinq sous! Přece jsem vás to učila, no tak! Hlavně, že jak to bude francouzsky, hned všichni uvidí, že jste šlechtické děti, a to bude mnohem dojímavější… Taky by šlo Malborough s’en va-t-en guerre! To je přece ryze dětská písnička a zpívá se jako ukolébavka ve všech aristokratických domech:
 
+  
+
 _Malborough s’en va-t-en guerre,  
 Ne sait quand reviendra…“[^16]_
 
@@ -96,12 +96,16 @@ Ne sait quand reviendra…“[^16]_
 
 spustila. „Ale ne, raději Cinq sous! Tak, Koljo, ruce v bok, honem, a ty, Leňo, se toč a zase obráceně a my s Polječkou vám budeme zpívat a tleskat!
 
+  
+
 _Cinq sous, cinq sous,  
 Pour monter notre ménage…[^17]_
 
   
 
 Eheheh!“ začala se zmítat kašlem. „Uprav si šatečky, Polječko, spadla ti ramínka,“ poznamenala, s námahou vydechujíc. „Teď se musíte zvlášť slušně a vybraně chovat, aby všichni viděli, že jste šlechtické děti. Já tenkrát přece říkala, že ten živůtek musíte střihnout delší a ze dvou dílů! To máš z těch svých rad, Soňo, to bylo pořád: kratší, jen kratší, a jak teď to dítě vypadá… A už zase všichni brečíte! Zbláznili jste se? No tak, Koljo, začni už, bože, to je strašné dítě!
+
+  
 
 _Cinq sous, cinq sous…_
 
@@ -167,11 +171,15 @@ Uložili ji opět na polštář.
 
 Upadala stále hlouběji do neklidného blouznění. Občas sebou trhla, zatěkala kolem sebe očima a na chvíli všechny poznávala, ale vědomí bylo vzápětí zastíráno blouzněním. Oddychovala sípavě a namáhavě, cosi jako by jí klokotalo v hrdle. „Říkám mu: Vaše Excelence,“ vykřikovala, lapajíc za každým slovem po dechu, „ta Amálie Ludvigovna… ach, Leňo, Koljo! Ručičky v bok a honem honem, _glissez, glissez, pas-de-basque!_ Dupej nožkama… Chovej se jako půvabný hošíček.
 
+  
+
 _Du hast Diamanten und Perlen…[^18]_
 
   
 
 Jak je to dál? To tak zazpívat…
+
+  
 
 _Du hast die schönsten Augen,  
 Mädchen, was willst du mehr?[^19]_
@@ -180,11 +188,15 @@ Mädchen, was willst du mehr?[^19]_
 
 To bych řekla! Was willst du mehr – něco si vymyslí, pařez…! Ach tak, ještě tohle:
 
+  
+
 _V poledním žáru v údolí Dagestánu…_
 
   
 
 Ach, jak jsem to měla ráda…! Tuhle romanci jsem zbožňovala, Polječko…!. Víš, tvůj otec ji zpíval… ještě jako ženich… Kde jsou ty časy…! Tu, tu bychom měli zazpívat! Ale jak je to, jak to jen je… zapomněla jsem už… Napovězte mi přece, jak to je!“ Byla bez sebe rozčilením a vzpínala se na polštáři. Konečně spustila děsivě chraptivým a selhávajícím hlasem, úpějíc a lapajíc po dechu při každém slově a s výrazem stále větší hrůzy:
+
+  
 
 _„V poledním žáru…! V údolí…! Dagestánu…!  
 S olovem v hrudi…!_

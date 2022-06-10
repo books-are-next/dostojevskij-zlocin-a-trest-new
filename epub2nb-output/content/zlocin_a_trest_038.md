@@ -3,8 +3,6 @@ title: '3'
 contentType: prose
 ---
 
-  
-
 „Petře Petroviči!“ křičela. „Zastaňte se mě aspoň vy! Vysvětlete tady té hloupé huse, že si takhle nesmí dovolovat k slušné dámě, kterou potkalo neštěstí. Že na to jsou zákony…, poženu to až ke generálnímu gubernátorovi… Zodpoví si to… Rozpomeňte se na pohostinnost mého otce a zastaňte se těch sirotků!“
 
 „Dovolte, milostivá… Dovolte, dovolte, milostivá,“ ohrazoval se Lužin, „vašeho pana otce, jak sama víte, jsem nikdy neměl tu čest znát…, dovolte, milostivá!“ (Kdosi se hlasitě zasmál.) „A nemíním se, prosím, plést do vašich ustavičných rozepří s Amálií Ivanovnou… Mám zde sám co vyřídit… Musím neprodleně mluvit s vaší nevlastní dcerou Sofjou… Ivanovnou… Jmenuje se tak přece? Pusťte mě, prosím!“

@@ -3,8 +3,6 @@ title: '6'
 contentType: prose
 ---
 
-  
-
 Když Raskolnikov později vzpomínal na tu chvíli, viděl průběh věcí takto:
 
 Hluk za dveřmi náhle prudce zesílil a dveře se maličko pootevřely.
