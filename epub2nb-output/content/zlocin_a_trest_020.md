@@ -3,6 +3,8 @@ title: '7'
 contentType: prose
 ---
 
+<section>
+
 Uprostřed ulice stál elegantní panský lehký kočár s párem bujných šedých koní; v kočáru nikdo neseděl, kočí slezl z kozlíku a přešlapoval vedle; koně někdo držel za uzdy. Okolo se tlačilo mnoho lidí, docela vpředu strážníci. Jeden držel rozsvícenou lucernu a sehnutý svítil na cosi na dlažbě, pod koly. Kolem bylo plno hovoru, zděšených výkřiků; kočí jako popletený občas opakoval:
 
 „Takové neštěstí! Panebože, takové neštěstí!“
@@ -296,3 +298,5 @@ Raskolnikova uvítal radostný, nadšený jásot. Obě se k němu rozběhly. Al
 Zmatek, vyděšené výkřiky, nářek… Razumichin, který stál ve dveřích, vpadl do pokoje, chytl nemocného svýma silnýma rukama a v okamžiku ho uložil na divan.
 
 „To nic není, to nic není!“ chrlil na matku a na sestru. „To jsou jen mdloby, to nestojí za řeč. Zrovna před chvílí říkal doktor, že mu je mnohem líp, že už je úplně zdráv! Vodu! Vidíte, už přichází k sobě, no, už se probral!“ A chytil Duněčku za ruku tak, že jí ji div nevykloubil, a přinutil ji, aby se sklonila nad divan a přesvědčila se, „že už se probral“. Matka i sestra zíraly na Razumichina radostně a vděčně jako na prozřetelnost; vždyť už od Nastasji slyšely, co pro jejich Roďu za celou dobu, kdy stonal, udělal ten „šikovný mladík“, jak ho ještě týž večer v důvěrné rozmluvě s Duňou nazvala sama Pulcherija Alexandrovna Raskolnikovová.
+
+</section>

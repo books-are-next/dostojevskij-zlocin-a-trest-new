@@ -3,6 +3,8 @@ title: '3'
 contentType: prose
 ---
 
+<section>
+
 Pospíchal ke Svidrigajlovovi. Co si od toho člověka sliboval, nemohl sám říct. Cítil však, že Svidrigajlov nad ním má jakousi záhadnou moc. Jakmile si to uvědomil, nemohl se uklidnit a nyní kromě toho uzrála vhodná chvíle. Celou cestu mu nešla z hlavy mučivá otázka: byl Svidrigajlov u Porfirije? Pokud mohl on sám soudit, byl ochoten přísahat na to, že nikoliv, že u něho nebyl! Vybavoval si všechno znovu, připomínal si celou Porfirijovu návštěvu a dospíval vždy k jedinému: ne, nebyl, ovšemže nebyl!
 
 Dobře, ale jestliže u Porfirije nebyl, půjde k němu, nebo nepůjde?
@@ -156,3 +158,5 @@ Raskolnikov se zvedal. Bylo mu těžko a dusno a trochu nevolno z toho, že s
 „Vyprávějte, ale doufám, že…“
 
 „Nebojte se! Mimoto Avdoťja Romanovna může i v tak odporném a prázdném individuu, jako jsem já, zanechat jen pocit hluboké úcty.“
+
+</section>

@@ -3,6 +3,8 @@ title: '5'
 contentType: prose
 ---
 
+<section>
+
 Pravda, chtěl jsem přece ještě nedávno jít k Razumichinovi prosit o nějakou práci, aby mi obstaral buď kondice, nebo cokoliv…, rozpomínal se Raskolnikov, ale čím mi může pomoct teď? Dejme tomu, že mi sežene kondice, dejme tomu, že se se mnou rozdělí o poslední kopějku, jestli nějakou má, takže si budu moct koupit boty a dát opravit šaty, abych mohl chodit na kondice… hm… Dobře, ale co dál? Co dokážu za pár měďáků? Copak tohle teď potřebuju? Opravdu směšné, jak jsem teď mohl jít k Razumichinovi…?
 
 Otázka, proč nyní šel k Razumichinovi, ho znepokojovala víc, než si přiznával; pln vnitřního neklidu hledal v tom zdánlivě nejvšednějším kroku jakýsi zlověstný význam.
@@ -138,3 +140,5 @@ Raskolnikov v tu chvíli přešel a víc neslyšel. Šel pomalu a nenápadně
 Domů měl jen několik kroků. Vrátil se jako odsouzený k smrti. Neuvažoval o ničem a nebyl toho ani schopen; ale celou svou bytostí náhle vycítil, že už nemá svobodu úsudku ani vůle a že je s konečnou platností rozhodnuto.
 
 Bylo mu jasné, že i kdyby měl čekat třeba celé roky na příhodnou chvíli a kdyby o ni usiloval, nebyl by nejspíš mohl počítat s příležitostí lépe korunující jeho záměr, než byla ta, jež se mu naskytla nyní. Rozhodně by bylo obtížné vypátrat den před činem a najisto, s velkou přesností a nejmenším nebezpečím, bez jakéhokoli podezřelého vyptávání a vyzvídání, že zítra v tolik a tolik hodin ta a ta stařena, jež má být přepadena, bude doma sama samotinká.
+
+</section>

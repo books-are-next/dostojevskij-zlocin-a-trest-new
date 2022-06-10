@@ -3,6 +3,8 @@ title: '4'
 contentType: prose
 ---
 
+<section>
+
 Vtom se tiše otevřely dveře a do pokoje nesměle vešla nějaká dívka. Všichni se k ní udiveně a zvědavě otočili. Raskolnikov ji hned nepoznal. Byla to Sofja Semjonovna Marmeladovová. Poprvé ji viděl už včera, ale v takové chvíli, za takové situace a v takových šatech, že mu utkvěla v paměti úplně jiná podoba. Teď to byla prostě, ba nuzně oblečená dívka, ještě mladičká, spíš děvčátko, se skromným a slušným vystupováním a s jasným, ale trošku plachým obličejem. Měla na sobě docela jednoduché domácí šatečky, na hlavě starý, už nemoderní klobouček, jen v rukou měla jako včera paraplíčko. Když nenadále vkročila do světnice plné lidí, nejenže zrozpačitěla, ale úplně ztratila hlavu, polekala se jako malé děcko, a dokonce už couvla zpátky.
 
 „Ach…, to jste vy?“ řekl nadmíru překvapený Raskolnikov a náhle sám také upadl do zmatku.
@@ -85,7 +87,9 @@ A vřele jí stiskl útlé prsty. Duněčka se na něho usmála, začervenala s
 
 Soňa se skoro s údivem dívala na jeho náhle rozjasněnou tvář; on se chvilinku mlčky a upřeně díval na ni a v těch několika okamžicích mu prolétlo pamětí všecko, co mu o ní vyprávěl její nebožtík otec…
 
-  
+</section>
+
+<section>
 
 „Proboha živého, Duněčko!“ spustila Pulcherija Alexandrovna, jak­mile vyšly z domu. „Jsem ti skoro ráda, že už jsme odtud. Úplně se mi ulevilo. Kdepak bych si jen včera ve vlaku pomyslela, že se z něčeho takového budu radovat!“
 
@@ -121,7 +125,9 @@ Soňa se skoro s údivem dívala na jeho náhle rozjasněnou tvář; on se chvi
 
 Pulcherija Alexandrovna už ani nehlesla. Rozmluva uvázla.
 
-  
+</section>
+
+<section>
 
 „Tak podívej se, co bych od tebe chtěl…,“ říkal Raskolnikov a odváděl si Razumichina k oknu.
 
@@ -189,7 +195,9 @@ Soňa se na něho pozorně podívala.
 
 Soňa neodpověděla. Právě jí otevřeli, rychle tedy vklouzla dovnitř. Nevěděla proč, ale bylo jí hanba a byla v ní malá dušička…
 
-  
+</section>
+
+<section>
 
 Razumichin byl celou cestu k Porfirijovi velmi rozjařený. „To je báječné, člověče,“ opakoval několikrát. „Jsem tak rád! Tak rád!“
 
@@ -254,3 +262,5 @@ Nejdůležitější je, jestli Porfirij ví, nebo neví, že jsem včera byl u 
 Raskolnikov se tolik smál, že se, jak se zdálo, nemohl zastavit, a tak vcházeli do bytu Porfirije Petroviče se smíchem. Právě to Raskolnikov potřeboval – v pokojích mohli slyšet, že přišli s veselou a že se ještě v předsíni pořád smějí.
 
 „Tady o tom ani slovo, sic tě zašlápnu jako hada!“ zasyčel Razumichin rozlíceně na Raskolnikova a sevřel mu rameno.
+
+</section>

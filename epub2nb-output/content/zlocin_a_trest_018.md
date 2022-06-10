@@ -3,6 +3,8 @@ title: '5'
 contentType: prose
 ---
 
+<section>
+
 Byl to pán už v letech, upjatý a důstojný, s opatrným a mrzutým výrazem tváře, a uvedl se tím, že se zastavil na prahu a rozhlížel se kolem sebe s urážlivě netajeným podivem, jako by se ptal: Kam jsem se to dostal? Nedůvěřivě, a dokonce s jakousi polekanou afektovaností, div ne uraženě si prohlížel Raskolnikovovu těsnou, nizoučkou „kajutu“. Stejně užasle pak obrátil a upřel oči na samého Raskolnikova, vysvlečeného, rozcuchaného, nemytého, ležícího na svém ubohém špinavém divanu a také si ho strnule prohlížejícího. Pak si stejně zdlouhavě začal prohlížet neupraveného, zarostlého a neučesaného Razumichina, který se mu díval drze a vyzývavě přímo do očí a nehýbal se z místa. Napjaté mlčení trvalo hezkou chvíli, až konečně, jak se dalo očekávat, došlo k malé změně dekorace. Příchozí si podle jistých, ostatně náramně nápadných známek bezpochyby uvědomil, že přehnaně strohým chováním by tady v té „kajutě“ zhola nic nepořídil, a o poznání změkl a zdvořile, ačkoliv ne docela bez přísnosti, pronesl k Zosimovovi, zřetelně členě každou slabiku své otázky:
 
 „Rodion Romanyč Raskolnikov, pan student či bývalý student?“
@@ -224,3 +226,5 @@ Raskolnikov po jejich odchodu upřel netrpělivý a chmurný pohled na Nastasju
 „Až potom! Chci spát! Nech mě!“
 
 Křečovitě se odvrátil ke zdi; Nastasja odešla.
+
+</section>

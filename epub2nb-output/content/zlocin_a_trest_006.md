@@ -3,6 +3,8 @@ title: '1'
 contentType: prose
 ---
 
+<section>
+
 Začátkem července, v době velkých veder, vyšel v podvečer ze svého pokojíku, který měl pronajatý v S-ské ulici, mladý muž a pomalu, skoro nerozhodně se loudal ke K-novu mostu.
 
 Šťastně proklouzl po schodech nespatřen svou bytnou. Jeho pokojíček byl až v podkroví vysokého čtyřpatrového domu a vypadal spíš jako skříň než příbytek. Bytná, u níž si světničku i s obědy a úklidem najímal, bydlela o schody níže v samostatném bytě, a kdykoli mladý muž vycházel, musel projít kolem její kuchyně, téměř vždy dokořán otevřené na chodbu. A pokaždé měl až chorobně bázlivý pocit, který mu byl nanejvýš trapný a odporný. Byl totiž u své bytné po krk zadlužen a bál se jí přijít na oči.
@@ -91,20 +93,30 @@ Ani slova, ani citoslovce nestačila, aby vyjádřila jeho pobouření. Nepředs
 
 V pivnici bylo v tu dobu jen několik hostů. Hned za dvěma stříknutými, které potkal na schodech, vyhrnula se najednou celá parta, asi pět chasníků a děvče s harmonikou. Po jejich odchodu se místnost ztišila a vyprázdnila. Zbyl tam jeden maličko podroušený u sklenice piva, napohled měšťan; jeho druh, tlustý a obrovitý, v sibiřské čapce a s prošedivělým vousem, klimbal úplně opilý na lavici a tu a tam jako ze spaní rozhazoval rukama, luskal prsty, vsedě pohupoval horní částí těla a notoval k tomu jakousi nesmyslnou písničku, z níž se mu vybavovaly verše jako:
 
-  
+</section>
+
+<section>
 
 _„Celý rok měl milou rád…  
 Celý rok měl milou rá-ád…“_
 
-  
+</section>
+
+<section>
 
 Nebo se najednou probral a zase:
 
-  
+</section>
+
+<section>
 
 _„Na špacír si půjdu sám,  
 svoji milku vyhledám…“_
 
-  
+</section>
+
+<section>
 
 Ale nikdo nesdílel jeho štěstí; jeho zamlklý společník přihlížel všem těm výbuchům nevraživě a nedůvěřivě. Pak tu byl ještě jeden, který vypadal jako úředník na penzi. Seděl sám před svou sklenkou, občas upil nebo se rozhlédl po místnosti. Zdálo se, že i on je něčím rozrušený.
+
+</section>

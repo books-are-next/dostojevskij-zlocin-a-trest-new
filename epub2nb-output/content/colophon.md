@@ -2,17 +2,29 @@
 title: Tiráž
 ---
 
+<section>  
 **Fjodor Michajlovič Dostojevskij    
 Zločin a trest**  
+</section>  
+<section>  
 Edice Knížky do školy  
 Překlad Jaroslav Hulák  
 Redakce Markéta Teuchnerová  
+</section>  
+<section>  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
+</section>  
+<section>  
 V MKP 1. elektronické vydání  
+</section>  
+<section>  
+</section>  
 1. vydání z 10. 6. 2022.
 
 ***
+
+<section>
 
 Znění tohoto textu vychází z díla [Zločin a trest](https://search.mlp.cz/cz/titul/zlocin-a-trest/2389682/) tak, jak bylo vydáno nakladatelstvím Academia v Praze v roce 2004. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
@@ -25,6 +37,10 @@ Text díla (Fjodor Michajlovič Dostojevskij: Zločin a trest), publikovaného [
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
 
-  
+</section>
+
+<section>
 
 ![image002.jpg](./resources/image002_fmt.jpeg)
+
+</section>

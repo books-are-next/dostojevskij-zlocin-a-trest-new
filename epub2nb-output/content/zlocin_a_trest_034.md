@@ -3,6 +3,8 @@ title: '6'
 contentType: prose
 ---
 
+<section>
+
 Když Raskolnikov později vzpomínal na tu chvíli, viděl průběh věcí takto:
 
 Hluk za dveřmi náhle prudce zesílil a dveře se maličko pootevřely.
@@ -206,3 +208,5 @@ Měšťan zmlkl a náhle se opět hluboce poklonil a prstem se přitom dotkl p
 „Bůh vám odpustí,“ odpověděl Raskolnikov, a jakmile to řekl, muž se opět poklonil, ale tentokrát ne až k zemi, nýbrž jen po pás, pomalu se otočil a vyšel z komůrky. „Všecko má dva konce, všecko má teď dva konce,“ vštěpoval si Raskolnikov a čileji než kdy jindy vyšel ven.
 
 „Teď se ještě popereme!“ pronesl se zlostným úsměškem, když scházel ze schodů. A ta zlost platila jemu samému – s opovržením a studem si připomínal svou „malomyslnost“.
+
+</section>

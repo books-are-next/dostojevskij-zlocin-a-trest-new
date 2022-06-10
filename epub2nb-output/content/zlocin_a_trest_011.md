@@ -3,6 +3,8 @@ title: '6'
 contentType: prose
 ---
 
+<section>
+
 Později se Raskolnikov při nějaké příležitosti dověděl, proč vlastně měšťan a jeho žena Lizavetu k sobě zvali. Byla to záležitost docela všední a nebylo na ní nic zvláštního. Nějaká přistěhovalá zchudlá rodina prodávala věci, šatstvo a podobně, vesměs ženské. A protože odprodej na trhu nebyl výhodný, hledali překupnici, a tu dělala Lizaveta: brala věci do komise, chodila za obchodem a měla ho až dost, protože byla velmi poctivá a vždy si řekla nejnižší možnou cenu: jakou cenu ohlásila, takovou ta věc také měla. Jinak toho namluvila málo, jak už řečeno, byla velice krotká a ostýchavá…
 
 Ale Raskolnikov začal být v poslední době pověrčivý. Pozůstatky pověrčivosti v něm zůstaly pak ještě dlouho, téměř nesmazatelně. A tak měl později vždy sklon vidět ve všem tom cosi zvláštního a tajemného, projev nějakých zvláštních vlivů a osudových náhod. Už v zimě mu jeden známý student, Pokorjov, před odjezdem do Charkova mezi řečí pověděl adresu staré Aleny Ivanovny pro případ, kdyby byl někdy nucen něco zastavit. Dlouhou dobu k ní nemusel, měl kondice a pořád se jakžtakž protloukal. Až asi před půldruhým měsícem si na tu adresu vzpomněl; měl dvě věci, které se daly zastavit: staré stříbrné hodinky po otci a malý zlatý prstýnek s nějakými třemi rudými kamínky, který mu darovala při loučení na památku sestra. Rozhodl se dát prstýnek; stařenu našel a na první pohled, ačkoliv o ní celkem nic nevěděl, pocítil k ní nepřekonatelný odpor; vzal od ní dva „papírky“ a cestou se stavil v jedné nevalné hospůdce. Objednal si čaj, posadil se a hluboce se zamyslel. V hlavě se mu klubala jako kuře z vejce podivná myšlenka, která ho tuze, tuze zaujala.
@@ -122,3 +124,5 @@ A už byl ve třetím poschodí, už stál přede dveřmi a před protějším
 Ale srdce se neutišovalo. Naopak, jako naschvál tlouklo silněji a silněji, stále silněji… Nevydržel to, pomalu natáhl ruku ke zvonku a zazvonil. Za hodnou chvíli zazvonil ještě jednou, silněji.
 
 Nikdo se neozýval. Zvonit víc bylo zbytečné a ani se mu to nehodilo. Stařena byla samozřejmě doma, ale je nedůvěřivá, je sama. Znal už trochu její zvyky… a znovu přiložil ucho těsně ke dveřím. Buď měl tak vybičované smysly (což se celkem dalo předpokládat), nebo to bylo skutečně tak dobře slyšet, ale náhle se mu zdálo, že slyší opatrné šátrání ruky u kliky a šustění šatů na dveřích. Kdosi tiše stál u zámku a navlas tak jako on tady zvenčí naslouchal potajmu uvnitř a také asi s uchem na dveřích. Schválně se pohnul a cosi dost hlasitě zabručel, aby ji nemohlo ani napadnout, že se skrývá; pak zazvonil ještě jednou, ale slabě a rozvážně, bez známky netrpělivosti. Ta chvíle, jak později poznal, se mu výrazně, jasně a nesmazatelně vryla do paměti; nemohl pochopit, kde se v něm vzala ta vychytralost, ačkoliv měl pocit, že mu mozek chvílemi vynechává, a tělo necítil téměř vůbec… Za okamžik bylo slyšet, jak se vysouvá petlice.
+
+</section>

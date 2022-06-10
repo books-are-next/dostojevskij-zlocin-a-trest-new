@@ -3,6 +3,8 @@ title: '2'
 contentType: prose
 ---
 
+<section>
+
 Bylo už skoro osm; oba pospíchali k Bakalejevovi, aby tam byli dříve než Lužin.
 
 „Kdopak to byl?“ zeptal se Razumichin, sotva vyšli na ulici.
@@ -222,3 +224,5 @@ Tato poslední námitka se tak hodila k povaze Petra Petroviče, že Raskolniko
 „Ty do toho nemluv! Ani se nehni!“ okřikl a zadržel Razumichina Raskolnikov. Pak přistoupil těsně k Lužinovi: „Opusťte laskavě tuto místnost!“ řekl tiše a úsečně. „A už ani slovo, jinak…“
 
 Petr Petrovič na něho několik vteřin hleděl s bledou, zle zkřivenou tváří, pak se otočil a odešel, ale sotva si někdo někdy odnášel v srdci tolik nenávisti k někomu jako tento člověk k Raskolnikovovi. Jemu, jen jemu jedinému dával všechnu vinu. Bylo příznačné, že i když už scházel ze schodů, stále ještě si myslel, že jeho věc možná ještě není tak docela ztracená, a pokud se týká obou žen, dokonce „velice“ napravitelná.
+
+</section>
