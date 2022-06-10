@@ -3,6 +3,8 @@ title: '2'
 contentType: prose
 ---
 
+<section>
+
 Ale co jestli už u mě hledali? Co jestli je tam zrovna zastihnu? Ale už byl v pokojíčku. Nikde nic, po nikom ani stopa. Dokonce ani Nastasja ničím nehnula. Ale proboha! Jak jen mohl prve všecko nechat v té díře?
 
 Skočil do kouta, vsunul ruku pod tapety a rychle vytahoval věci a cpal si je do kapes. Bylo to celkem osm kusů: dvě malé krabičky s náušnicemi nebo něčím podobným – ani se blíže nepodíval – a dále čtyři nepříliš velká safiánová pouzdra. Jeden řetízek byl jen tak zabalený v novinovém papíře. Ještě jedna věc byla zabalená do novin, nějaký řád…
@@ -132,3 +134,5 @@ Neodpověděl. Nastasja nad ním pořád stála, upřeně na něho hleděla a n
 Seběhla dolů a za chvíli už byla zpátky s vodou v bílém hliněném hrnku; ale Raskolnikov už si nevzpomínal, co bylo dál. Vzpomínal si jen, jak upil doušek studené vody a rozlil si přitom vodu po prsou. Pak upadl do bezvědomí.
 
 [^2]: Slabý. _Pozn. red._
+
+</section>

@@ -3,6 +3,8 @@ title: '6'
 contentType: prose
 ---
 
+<section>
+
 Ale sotva odešla, vstal, zavřel dveře na háček, rozvázal ranec se šatstvem, který předtím přinesl a zase zavázal Razumichin, a začal se oblékat. A zvláštní věc: náhle jako by se docela uklidnil, ani už neblouznil, jako nedávno, ani necítil ten panický strach jako celou poslední dobu. Byly to první okamžiky jakéhosi podivného a náhlého uklidnění. Jeho pohyby byly přesné a jisté, projevoval se v nich pevný záměr. „Ještě dnes, ještě dnes!“ bručel si pro sebe. Uvědomoval si sice, že je ještě zesláblý, ale vrcholné duševní vypětí, které přešlo ve stav klidu a myšlenkové strnulosti, mu dodávalo sílu a jistotu. Ostatně doufal, že se na ulici neskácí. Když se převlékl do nových věcí, utkvěl pohledem na penězích, jež ležely na stole, chvíli se rozmýšlel a pak je strčil do kapsy. Bylo to pětadvacet rublů. Vzal i všechny měďáky, které dostal Razumichin nazpět z deseti rublů vydaných za oděv. Pak tiše vytáhl háček, vyšel z pokojíčku, sešel ze schodů a nahlédl do otevřených dveří kuchyně: Nastasja k němu byla obrácena zády a sehnutá rozfoukávala panin samovar. Neslyšela nic. A koho by také napadlo, že teď odejde? Za malou chvíli už stál na ulici.
 
 Bylo asi osm hodin, slunce zapadalo. Dusné dny ještě trvaly, ale on se toho městem zamořeného vzduchu plného puchu a prachu nadýchl s rozkoší. Měl pocit, že se mu začíná zlehka točit hlava, jeho rozpálené oči a pohublý, voskově žlutý obličej náhle zasvítily jakousi sveřepou energií. Nevěděl, kam půjde, a ani o tom neuvažoval, věděl jen jediné: že všecko to je třeba skoncovat ještě dnes, naráz, okamžitě, že jinak se domů nevrátí, protože _takhle nechce žít_. Jak skoncovat? Čím skoncovat? O tom neměl potuchy a vůbec o tom nechtěl přemýšlet. Odháněl od sebe myšlenky – myšlení mu působilo trýzeň. Cítil a věděl prostě jen tolik, že se všecko musí změnit, ať už tak či onak. „Jen když se to změní,“ opakoval si se zoufalou utkvělou jistotou a rozhodností.
@@ -35,12 +37,16 @@ Už dříve často procházel tou krátkou uličkou, obloukem spojující námě
 
 Zpěv a všechen ten hřmot a halas tam dole ho bůhvíproč přitahoval… Bylo odtud slyšet, jak za smíchu a pískotu při tenké fistulce notují bujnou písničku a při kytaře kdosi divoce tančí a vydupává podpatky takt. Raskolnikov strnule, zachmuřeně a zádumčivě poslouchal sehnutý u vchodu a zvědavě nahlížel z chodníku do síně.
 
-  
+</section>
+
+<section>
 
 _„Hošíčku hezký, mám tě moc ráda,  
 jen mi pořád nevalchuj záda…,“_
 
-  
+</section>
+
+<section>
 
 pištěl zpěvák tenkým hlasem. Raskolnikov náhle hrozně zatoužil rozeznat, co zpívají, jako by to teď bylo pro něj to nejdůležitější.
 
@@ -431,3 +437,5 @@ Popadl ho za rameno a vystrčil ven na ulici. Raskolnikov klopýtl, ale neupadl
 Mám jít, nebo nemám? přemítal Raskolnikov, když se zastavil na rohu v jízdní dráze a rozhlížel se, jako by čekal, že to rozhodne někdo za něj. Ale nikde nic; všecko bylo cizí a mrtvé jako kameny pod jeho nohama, mrtvé jen pro něho, pro něho jediného… Vtom rozeznal v dálce, dobrých dvě stě kroků odtud, někde na konci ulice v houstnoucím šeru sběh lidí, hlasy, výkřiky… Lidé se tísnili kolem jakéhosi kočáru… Uprostřed ulice zablikalo světlo. Co se stalo? Raskolnikov zahnul doprava a zamířil k davu. Chytal se opravdu všeho a chladně se ušklíbl, když si to uvědomil, protože už se přece pevně rozhodl, že půjde na komisařství, a bezpečně věděl, že ještě teď se vším skoncuje.
 
 [^3]: Dost těch řečí!
+
+</section>

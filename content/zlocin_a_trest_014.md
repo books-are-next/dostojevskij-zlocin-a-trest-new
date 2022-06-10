@@ -3,6 +3,8 @@ title: '1'
 contentType: prose
 ---
 
+<section>
+
 Ležel tak velmi dlouho. Občas nakrátko procital a v těch chvílích si uvědomoval, že je dávno noc, ale nepomyslel na to, aby vstal. Konečně zpozoroval, že už je světlo jako ve dne. Ležel naznak na divanu, pořád ještě se docela neprobral z nedávných mrákot. Zvenčí k němu ryčně doléhal strašný, zoufalý řev, který ostatně pod svým oknem slýchal noc co noc kolem třetí hodiny. Vzbudil ho i nyní.
 
 Aha! Z hospod už táhnou opilci, pomyslel si, jde na třetí, a znenadání se vymrštil, jako by ho někdo stáhl z divanu. Jakže! Už budou tři! Posadil se – a vtom se upamatoval na všechno! Náhle, v jediném okamžiku se na všechno upamatoval!
@@ -280,3 +282,5 @@ Raskolnikov vyšel z kanceláře. Zaslechl ještě, jak se po jeho odchodu náh
 Prohlídka, prohlídka, hned u mě bude prohlídka! opakoval si, pospíchaje domů. Lotři! Podezřívají mě! Strach ho znova sevřel celého, od hlavy k patě.
 
 [^1]: Děkuji. _Pozn. red._
+
+</section>

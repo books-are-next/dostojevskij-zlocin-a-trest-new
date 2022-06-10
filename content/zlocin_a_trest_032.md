@@ -3,6 +3,8 @@ title: '4'
 contentType: prose
 ---
 
+<section>
+
 A Raskolnikov zamířil rovnou k domu u průplavu, kde bydlela Soňa. Byl to starý dvoupatrový, zeleně natřený dům. Raskolnikov pracně sehnal domovníka a od něho se neurčitě dověděl, kde má hledat byt krejčího Kapernaumova. Když vypátral v koutě na dvoře vchod na úzké tmavé schodiště, vyšel konečně do poschodí a na pavlač vedoucí do dvora. Zatímco bezradně chodil sem a tam a pátral, kde by mohl být vchod ke Kapernaumovovi, otevřely se náhle asi tři kroky od něho jedny dveře; mechanicky za ně vzal.
 
 „Kdo je to?“ zeptal se polekaně ženský hlas.
@@ -356,3 +358,5 @@ Odešel. Soňa se za ním dívala jako za šílencem; ale sama měla také pocit
 Celou noc třeštila jako v horečce. Chvílemi vyskakovala, plakala, spínala ruce a pak zas upadala do horečnatého spánku a ve snu viděla Polječku, Katěrinu Ivanovnu, Lizavetu, zdálo se jí, jak čtou evangelium, viděla jeho bílou tvář a planoucí oči… Líbá jí nohy, pláče… Ach bože!
 
 Za dveřmi vpravo, za těmi, které oddělovaly Soninu světnici od bytu Gertrudy Karlovny Resslichové, byla spojovací místnost, už dlouho neobývaná, patřící k bytu paní Resslichové, která ji také chtěla pronajmout, jak hlásaly i vývěsky na vratech a oznámení vylepená na oknech vedoucích k průplavu. Soňa si už dávno zvykla pokládat tu světnici za neobydlenou. Zatím však po celou tu dobu stál u těch dveří v prázdné místnosti pan Svidrigajlov a tajně naslouchal. Když Raskolnikov odešel, chvíli zamyšleně postál, vyšel po špičkách do svého pokoje, sousedícího s prázdnou světnicí, vzal židli a tichounce ji přenesl těsně za dveře do Soniny světnice. Rozmluvu pokládal za zajímavou a významnou a velmi, velmi se mu líbila – tolik, že si dokonce přenesl židli, aby se příště, například třeba hned zítra, znova nedostal do tak nepříjemné situace, že by musel prostát celou hodinu, a aby se zařídil pohodlněji, a tak měl po všech stránkách nerušený požitek.
+
+</section>

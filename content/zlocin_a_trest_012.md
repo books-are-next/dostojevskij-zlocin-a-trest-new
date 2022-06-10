@@ -3,6 +3,8 @@ title: '7'
 contentType: prose
 ---
 
+<section>
+
 Dveře se stejně jako tehdy maličko pootevřely a uzoučkou škvírkou se na něho ze tmy opět upřely dvě pichlavé a nedůvěřivé oči. V tu chvíli ztratil klid a málem se dopustil těžké chyby.
 
 Ze strachu, aby stařenu nepolekalo, že jsou sami, i z pochybnosti, zda jeho vzhled rozptýlí její nedůvěru, vzal za dveře a přitahoval si je, aby ji snad nenapadlo znova se zavřít. Stará nato sice nepřirazila dveře zpátky, ale ani nepouštěla petlici z ruky, takže ji div nevytáhl ze dveří na chodbu. Viděl, že si stoupla tak, aby mu zahradila vstup, ale hrnul se přes ni. Stařena polekaně uhnula, chtěla cosi říct, ale nevypravila ze sebe ani slovo a jen na něho upírala široce rozevřené oči.
@@ -160,3 +162,5 @@ Konečně došel k postranní ulici a polomrtvý do ní odbočil; tam už byl 
 Nebyl plně při smyslech a bylo to čím dál horší. Přesto se rozpomínal, jak se, když vyšel k průplavu, vylekal, že je tam málo lidí a že tam bude příliš na očích, a jak se málem obrátil zpátky do ulice. Ale třebaže se stěží držel na nohou, přesto udělal zacházku a přišel domů právě z opačného směru. Nebyl docela při smyslech, ani když vcházel do vrat, teprve na schodech si totiž vzpomněl na sekyru. A přece ho čekal nadmíru důležitý úkol – položit ji nazpět, a to co nejnenápadněji. Zřejmě už si nedokázal uvědomit, že by bylo možná mnohem lepší sekyru nevracet na původní místo, ale pohodit ji, třeba někdy později, na cizím dvoře.
 
 Ale všecko dobře dopadlo. Dveře do komůrky byly zavřené, ale nebyl na nich zámek, s největší pravděpodobností byl tedy domovník doma. On však už byl tak málo schopen cokoliv uvážit, že šel přímo ke dveřím a otevřel je. Kdyby se ho byl domovník zeptal, co chce, byl by mu možná sekyru prostě podal. Ale domovník tam zase nebyl, a tak mohl sekyru uložit na její místo pod lavicí, dokonce polínkem ji zakryl tak, jak to bylo předtím. Po celou cestu až do svého pokojíku nepotkal ani živáčka; dveře u bytné byly zavřené. Jakmile se octl v pokoji, vrhl se tak jak byl na divan. Nespal, ale ležel v mrákotách. Kdyby byl v té době někdo vstoupil do jeho pokojíku, byl by okamžitě vyletěl a začal křičet. Hlavou se mu divoce honily zlomky a útržky nějakých myšlenek, ani jedinou však nebyl s to uchopit, ani na jediné nedokázal utkvět, ať se o to snažil sebevíc…
+
+</section>

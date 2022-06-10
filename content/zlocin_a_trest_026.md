@@ -3,6 +3,8 @@ title: '5'
 contentType: prose
 ---
 
+<section>
+
 Ale Raskolnikov už vcházel do pokoje. Vstupoval tam s takovým výrazem, jako by se musel vší silou přemáhat, aby nevyprskl smíchem. Za ním klátivě a neohrabaně, se sveřepou grimasou a rudý jako krocan vcházel zahanbený Razumichin. Jeho tvář i celý zjev byly v té chvíli skutečně k popukání a plně vysvětlovaly Raskolnikovův smích. Raskolnikov se, ještě dříve, než byl představen, uklonil pánu domu, který stál uprostřed pokoje a nechápavě se na ně díval, podal a stiskl mu ruku, ale zřejmě přitom pořád ještě příliš zápasil se svou veselostí, než aby k tomu mohl dodat aspoň dvě tři slova. Ale sotva se mu podařilo naladit tvář vážně a cosi zamumlat, náhle, jakoby proti své vůli se opět podíval na Razumichina, a to už se neovládl: potlačený smích propukl tím nezadržitelněji, čím více byl do té chvíle zadržován. A to, jak mimořádně tento „srdečný smích“ Razumichina popuzoval, dávalo celému výjevu punc upřímného veselí a hlavně přirozenosti. A Razumichin k tomu jako naschvál ještě přispěl.
 
 „Zatracený mizero!“ zahromoval a rozpřáhl se rukou, přičemž praštil do malého kulatého stolku, na němž stála prázdná sklenice od čaje. Všecko s řinkotem letělo na zem.
@@ -330,3 +332,5 @@ Raskolnikov mlčel a jen se ostře a pevně díval Porfirijovi do očí. Razum
 To řekl už v předsíni. Porfirij Petrovič je velmi roztomile vyprovodil až ke dveřím. Oba vyšli na ulici mrzutí a zakabonění a několik kroků zarytě mlčeli. Raskolnikov si zhluboka oddychl…
 
 [^5]: Ať žije věčná válka!
+
+</section>

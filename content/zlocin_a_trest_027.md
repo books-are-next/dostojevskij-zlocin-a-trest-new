@@ -3,6 +3,8 @@ title: '6'
 contentType: prose
 ---
 
+<section>
+
 „Tomu nevěřím! Tomu nemůžu věřit!“ stál na svém sklíčený Razumichin a tvrdošíjně vyvracel Raskolnikovovy domněnky. To už docházeli k Bakalejevovu penzionu, kde na ně Pulcherija Alexandrovna a Duňa dávno čekaly. Razumichin, pobouřený a rozčilený už jen z toho, že _o tom_ poprvé začali mluvit otevřeně, co chvíli se v zápalu řeči zastavoval.
 
 „Tak nevěř!“ ušklíbal se chladně a přezíravě Raskolnikov. „Tys jako obyčejně nic nepozoroval, ale já zato vážil každé slovo.“
@@ -134,3 +136,5 @@ Uplynulo asi deset minut. Bylo ještě světlo, ale už se začínalo šeřit. V
 „Tak mluvte, co si přejete?“
 
 „Však já věděl, že nespíte a že se jen přetvařujete,“ záhadně odpověděl neznámý a nevzrušeně se rozesmál. „Dovolte, abych se představil – Arkadij Ivanovič Svidrigajlov…“
+
+</section>

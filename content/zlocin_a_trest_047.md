@@ -3,6 +3,8 @@ title: '6'
 contentType: prose
 ---
 
+<section>
+
 Celý večer až do deseti probil po různých hospodách a peleších, přecházel z jednoho podniku do druhého. Kdesi splašil i Káťu, která už zas zpívala jinou krčemnou píseň, jak jakýsi „ničema a tyran“ _začal Káťu celovat._
 
 Svidrigajlov častoval Káťu i flašinetáře, zpěváky i číšníky a ještě jakési dva písaříky. S těmito písaříky se sblížil vlastně proto, že oba měli křivý nos: jeden ho měl zahnutý doprava a druhý doleva. To Svidrigajlova nesmírně udivilo. Ti ho pak zatáhli do nějaké zahradní restaurace, kde za ně zaplatil i vstupné. V celé zahradě byl jediný tříletý smrček a tři keříčky. Mimoto tam byl i „bufet“, vlastně pivnice, kde byl však k dostání také čaj, dokonce tam stálo několik zelených stolků a židlí. K obveselení návštěvníků byl po ruce mizerný zpěvácký sbor a nějaký mnichovský Němec přestrojený za paňácu s červeným nosem, ale bůhvíproč nesmírně smutný. Písaříci se dostali do hádky s nějakými jinými písaříky a málem se poprali. Svidrigajlov je měl rozsoudit. Soudil je už dobré čtvrt hodiny, povykovali však tolik, že jim nebylo vůbec rozumět. Nejpravděpodobnější bylo, že jeden z nich cosi ukradl a na místě to prodal nějakému židovi, který se tam naskytl, ale pak se nechtěl o výtěžek rozdělit se svým druhem. Nakonec vyšlo najevo, že prodaná věc byla kávová lžička, majetek bufetu. Brzy po ní vskutku začala sháňka a případ nabýval povážlivých rozměrů. Svidrigajlov dal za lžičku náhradu, zvedl se a vyšel z parku. Bylo asi deset hodin. Do té doby nevypil ani kapku vína a v zahradní restauraci si objednal jen čaj a i to spíše ze slušnosti. Byl dusný a pošmourný večer. K desáté se stáhly ze všech stran černé mraky, začalo hřmít a spustil se lijavec prudký jako vodopád. Voda nepadala v kapkách, nýbrž bičovala zemi v celých proudech. Nepřetržitě se blýskalo a leckterý záblesk trval dobrých pět vteřin. Než v tom dešti došel domů, promokl na kůži. Ve svém pokoji se zamkl, otevřel sekretář, vyndal všecky peníze a roztrhal dvě nebo tři listiny. Pak strčil peníze do kapsy a chtěl se ještě převléknout, ale když vyhlédl oknem a slyšel hřmění a pleskání deště, mávl rukou, vzal klobouk a odešel, ale nezamkl. Šel přímo k Soně. Byla už doma.
@@ -108,3 +110,5 @@ Přiložil revolver k pravému spánku.
 Svidrigajlov stiskl kohoutek…
 
 [^29]: Lidový název pro cestu trestanců, posílaných za carského Ruska z Moskvy nebo přes Moskvu do vyhnanství na Sibiř.
+
+</section>

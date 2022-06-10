@@ -3,6 +3,8 @@ title: '3'
 contentType: prose
 ---
 
+<section>
+
 Nedá se však říct, že celou dobu své nemoci proležel v bezvědomí: byl to horečnatý stav s blouzněním a polovědomím. Na leccos se později rozpomněl. Brzy se mu zdálo, že se okolo něho shluklo mnoho lidí a že ho chtějí vzít a někam odnést a vášnivě se o to hádají a přou. Brzy zas, že leží v pokojíku sám, že všichni odešli a bojí se ho, a jen občas se maličko pootevřou dveře a nějací lidé se na něho dívají, hrozí mu, o něčem se spolu domlouvají, smějí se a dráždí ho. Na to, že u něho často byla Nastasja, se pamatoval dobře; uvědomoval si ještě jednoho člověka, který mu byl hrozně povědomý, ale marně si lámal hlavu, kdo to je, a trápil se proto, dokonce plakal. Někdy se mu zdálo, že už leží aspoň měsíc, jindy zas, že je to pořád týž den. Ale na _tamto_, na _tamto_ úplně zapomněl, zato si bez pře­stání uvědomoval, že zapomněl na cosi, nač se nesmí zapomenout – a mučivě, trýznivě napínal paměť, sténal a chvílemi až běsnil nebo se strašlivě, nesnesitelně děsil. To se vzpínal na lůžku a chtěl prchat, ale pokaždé byl kýmsi násilím zadržen a znova nemohoucně upadal do mrákot. Konečně se však přece probral. Bylo to jednou ráno, v deset hodin. V tu dopolední hodinu za jasných dní slunce vrhalo dlouhý pruh na pravou stěnu a ozařovalo kout dveří. U jeho postele stála Nastasja a ještě nějaký člověk, naprosto mu neznámý, který ho s velkým zájmem pozoroval. Byl velmi mladý, s bradkou, na sobě měl halenu a vypadal jako nějaký zřízenec. Do pootevřených dveří nakukovala bytná. Raskolnikov si sedl.
 
 „Kdo je to, Nastasjo?“ ukázal na mladíka.
@@ -236,3 +238,5 @@ Kdy už dají pokoj! myslel si. „Za čí peníze jsi to všecko nakoupil?“ z
 Otevřely se dveře a vstoupil vysoký, silný muž, kterého Raskolnikov, jak se mu zdálo, už také znal od vidění.
 
 „Zosimov! Konečně!“ zaradoval se Razumichin.
+
+</section>

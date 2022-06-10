@@ -3,6 +3,8 @@ title: '1'
 contentType: prose
 ---
 
+<section>
+
 Raskolnikov se pozvedl a posadil se na divanu. Slabým posunkem naznačil Razumichinovi, aby zarazil příval svých zmatených a horlivých útěch, jež chrlil na matku a na sestru, vzal obě za ruce a dlouho mlčky upíral zrak hned na tu, hned na onu. Matku jeho pohled polekal. Četla v tom pohledu až mučivě silný cit, ale zároveň v něm bylo cosi strnule utkvělého, skoro nepříčetného. Pulcherija Alexandrovna se rozplakala.
 
 Duněčka byla bledá, její ruka v bratrově ruce se chvěla.
@@ -176,3 +178,5 @@ Zosimov se rozesmál ještě víc než předtím.
 „Ale co je mi po ní?“
 
 „No tohle bych ti asi těžko vysvětloval! Podívej, vy dva se k sobě báječně hodíte! Myslel jsem na tebe už dříve… Ty k tomu přece spěješ! Tak není jedno, jestli to bude dřív nebo později? Tady si přijdeš, kamaráde, i s peřinami na své, ale co, nejen s peřinami! Tady je všecko svůdné; tady je konec světa, kotva, tichý přístav, pupek země, pohádková vidina, říše teplých lívanců, mastných pirohů, večerního samovaru, tichých vzdechů a teplých kazajek, vyhřátých postýlek – zkrátka navlas jako bys umřel a zároveň byl živ, obě přednosti najednou! Ale hrome, nějak jsem se rozežvanil, je čas jít spát, kamaráde! Poslyš, obvykle se v noci probouzím, tak se na něj zajdu podívat. Já vím, že je to zbytečné, hloupost, všecko je v pořádku. Ty si nedělej starosti, ale jestli chceš, můžeš tam taky jednou zaskočit. Ale kdybys něco pozoroval, třeba že blouzní nebo že má horkost nebo tak, okamžitě mě vzbuď. Ale to je vyloučené…“
+
+</section>

@@ -3,6 +3,8 @@ title: '5'
 contentType: prose
 ---
 
+<section>
+
 Raskolnikov ho následoval.
 
 „Co to znamená!“ otočil se na něho s výkřikem Svidrigajlov. „Myslím, že jsem vám řekl…“
@@ -258,3 +260,5 @@ Duňa to vycítila, rychle vzala klíč, chvatně odemkla dveře a vyrazila ven
 Svidrigajlov stál ještě drahnou dobu u okna; konečně se pomalu otočil, rozhlédl se po pokoji a zemdleně si přejel dlaní čelo. Tvář mu zkřivil divný úsměv, ubohý, truchlivý, slabý, zoufalý úsměv. Dlaň měl potřísněnou zaschlou krví; při pohledu na krev zlostně svraštil tvář, pak navlhčil ručník a omyl si skráň. Náhle mu padl do očí odhozený revolver, který odletěl až ke dveřím. Zvedl ho a prohlédl si ho. Byl to maličký kapesní tříranný revolver starého typu; zbyly v něm ještě dva náboje a jedna kapsle. Bylo možné vypálit ještě jednu ránu. Po krátké úvaze strčil revolver do kapsy, nasadil si klobouk a odešel.
 
 [^28]: Teorie jako každá jiná.
+
+</section>

@@ -3,6 +3,8 @@ title: '2'
 contentType: prose
 ---
 
+<section>
+
 Raskolnikovovi byl dav cizí, a jak už řečeno, zvlášť v poslední době se stranil společnosti vůbec. Teď ho však najednou začala přitahovat. V jeho nitru zrálo cosi nového a zároveň sílila touha po lidech. Celý měsíc zoufalého tesknění a pochmurného rozjitření ho tak ubil, že zatoužil aspoň na chvilku dýchat jiný vzduch, ať kdekoliv, a tak přes všechnu okolní nečistotu mu bylo v pivnici velmi příjemně.
 
 Majitel podniku byl kdesi vedle, ale co chvíli přibíhal do hlavní místnosti odněkud po schůdcích, na nichž se vždy nejdříve objevily jeho švihácké namaštěné holínky s velkými červenými přehyby. Na sobě měl jen košili a strašlivě usmolenou černou atlasovou vestu, byl bez kravaty a celá tvář se mu leskla jako naolejovaný zámek. Za výčepním pultem stál asi čtrnáctiletý chlapec a další, ještě mladší hoch obsluhoval hosty. Byly nabízeny nakrájené okurky, černé suchary a rybí řízky a všecko to odporně zavánělo. Pro dusno nebylo uvnitř skoro k vydržení a všechno bylo tak načichlé kořalkou, že jen z toho vzduchu mohl být člověk v pěti minutách opilý.
@@ -116,3 +118,5 @@ Co jsem to zas provedl za hloupost? řekl si. Oni mají Soňu, a já jsem odká
 Zamyslel se.
 
 „A co když nemám pravdu,“ vyhrkl náhle bezděčně „co když člověk není _padouch_ jako druh, jako lidský rod? Potom všecko ostatní jsou předsudky, jen a jen strašáky, a neexistují žádné zábrany, a tak je to správné…!“
+
+</section>

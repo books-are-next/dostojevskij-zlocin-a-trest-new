@@ -3,6 +3,8 @@ title: '2'
 contentType: prose
 ---
 
+<section>
+
 Byl nemocný už dlouho; nezlomily ho však hrůzy trestaneckého života ani těžká práce, ani strava, dohola ostříhaná hlava ani to, že nosil hadry místo obleku: ach, jak málo si dělal ze všech těch útrap a strázní! Naopak, pracoval dokonce rád: fyzické vyčerpání mu přinášelo alespoň několik hodin klidného spánku. A co pro něho znamenala strava, ty řídké polévky se šváby? Kdysi jako student často nemíval ani to. Oděv měl teplý, přizpůsobený životu, který musel vést. Okovy na sobě téměř necítil. Měl se snad stydět za svou holou hlavu a sešívaný trestanecký kabát? Ale před kým? Před Soňou? Soňa se ho bojí a mimoto před ní se přece nemá zač stydět!
 
 A přece se styděl i před Soňou a trápil ji za to svým přezíravým a hrubým jednáním. Nestyděl se však za holou hlavu ani za okovy – byl smrtelně zasažený ve své pýše a z uražené pýchy se posléze i rozstonal. Jak by byl býval šťasten, kdyby mohl sám sebe obvinit! To by byl snesl všecko, i stud a hanbu. Ale přestože se soudil přísně, jeho zatvrzelé svědomí neshledalo ve vlastní minulosti žádnou tak hroznou vinu, snad jen obyčejnou chybu, jíž se mohl dopustit kdekdo. Styděl se právě za to, že on, Raskolnikov, se zničil tak slepě, beznadějně, uboze a hloupě jen z vůle slepého osudu, a že chce-li se aspoň trochu uklidnit, musí se sklonit a pokořit před „nesmyslností“ nějakého rozsudku.
@@ -66,3 +68,5 @@ Neotevřel ji ani teď, ale napadlo ho: Copak mohu teď smýšlet jinak než ona
 I Soňa byla celý den rozrušená a v noci se dokonce znova roznemohla. Byla tak šťastná, že se svého štěstí skoro polekala. Sedm let, _pouhých_ sedm let! Na prahu štěstí jim oběma v některých chvílích připadalo těch sedm let jen jako sedm dní. Raskolnikov si ani neuvědomoval, že mu nový život nespadne do klína zadarmo, že ho ještě bude muset draho zaplatit, vykoupit si ho v budoucnu velkou statečností… Ale to už je začátek nové historie, historie poznená­hlého obrozování člověka, poznenáhlého přerodu, poznenáhlého přechodu z jednoho světa do druhého, seznamování s novou, doposud úplně neznámou skutečností. Historie, jež by se mohla stát tématem nového příběhu – náš nynější příběh však skončil.
 
 _1866_
+
+</section>
