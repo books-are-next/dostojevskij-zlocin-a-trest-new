@@ -3,8 +3,6 @@ title: '4'
 contentType: prose
 ---
 
-  
-
 Raskolnikov Soňu horlivě a živě obhajoval proti Lužinovi, přestože sám nosil v duši tolik vlastní hrůzy a trýzně. Ale po mučivých ranních prožitcích se přímo ochotně chopil příležitosti vystřídat své dojmy, které už nemohl déle snášet, nemluvě ani o tom, jak velký a vřelý měl osobní zájem, aby Soňu obhájil. Mimoto stále myslel na nadcházející setkání s ní a chvílemi jím byl strašně zneklidňován: vždyť jí _musel_ říct, kdo zabil Lizavetu, a tušil strašlivé utrpení a přímo je od sebe rukama odstrkoval. A to jeho vyzývavé: „Tak jak budete mluvit teď, Sofjo Semjonovno?“, které v duchu pronesl, když odcházel od Katěriny Ivanovny, pramenilo zřejmě ještě z nějakého chvilkového rozjaření, z triumfální nálady po vítězství nad Lužinem. Ale odehrála se s ním podivná změna. Než došel ke Kapernaumovům, dolehla na něho náhlá malomyslnost a strach. Přede dveřmi se nerozhodně zastavil a položil si podivnou otázku: „Je vůbec nutné říkat, kdo zabil Lizavetu?“ Byla to podivná otázka, protože současně cítil, že to nejen nemůže neříct, nýbrž není s to ten okamžik ani na nějaký čas oddálit. Prozatím sám nevěděl, proč nemůže; zatím to jen _cítil_, a toto trýznivé vědomí nemohoucnosti jakkoliv se vzepřít ho skoro zničilo. Aby už nemusel na nic myslet a aby se nemusel déle trápit, kvapně otevřel dveře a od prahu se podíval na Soňu.
 
 Seděla lokty opřená o stolek a zakrývala si obličej dlaněmi, ale jakmile Raskolnikova spatřila, rychle se zvedla a pokročila mu v ústrety, jako by ho očekávala.

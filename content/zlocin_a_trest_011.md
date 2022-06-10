@@ -3,8 +3,6 @@ title: '6'
 contentType: prose
 ---
 
-  
-
 Později se Raskolnikov při nějaké příležitosti dověděl, proč vlastně měšťan a jeho žena Lizavetu k sobě zvali. Byla to záležitost docela všední a nebylo na ní nic zvláštního. Nějaká přistěhovalá zchudlá rodina prodávala věci, šatstvo a podobně, vesměs ženské. A protože odprodej na trhu nebyl výhodný, hledali překupnici, a tu dělala Lizaveta: brala věci do komise, chodila za obchodem a měla ho až dost, protože byla velmi poctivá a vždy si řekla nejnižší možnou cenu: jakou cenu ohlásila, takovou ta věc také měla. Jinak toho namluvila málo, jak už řečeno, byla velice krotká a ostýchavá…
 
 Ale Raskolnikov začal být v poslední době pověrčivý. Pozůstatky pověrčivosti v něm zůstaly pak ještě dlouho, téměř nesmazatelně. A tak měl později vždy sklon vidět ve všem tom cosi zvláštního a tajemného, projev nějakých zvláštních vlivů a osudových náhod. Už v zimě mu jeden známý student, Pokorjov, před odjezdem do Charkova mezi řečí pověděl adresu staré Aleny Ivanovny pro případ, kdyby byl někdy nucen něco zastavit. Dlouhou dobu k ní nemusel, měl kondice a pořád se jakžtakž protloukal. Až asi před půldruhým měsícem si na tu adresu vzpomněl; měl dvě věci, které se daly zastavit: staré stříbrné hodinky po otci a malý zlatý prstýnek s nějakými třemi rudými kamínky, který mu darovala při loučení na památku sestra. Rozhodl se dát prstýnek; stařenu našel a na první pohled, ačkoliv o ní celkem nic nevěděl, pocítil k ní nepřekonatelný odpor; vzal od ní dva „papírky“ a cestou se stavil v jedné nevalné hospůdce. Objednal si čaj, posadil se a hluboce se zamyslel. V hlavě se mu klubala jako kuře z vejce podivná myšlenka, která ho tuze, tuze zaujala.

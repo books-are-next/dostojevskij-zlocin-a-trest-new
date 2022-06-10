@@ -3,8 +3,6 @@ title: '4'
 contentType: prose
 ---
 
-  
-
 Zosimov byl vysoký otylý muž trochu odulé, bezkrevné, hladce vyholené tváře, bělavých hladkých vlasů, obrýlený, s velkým zlatým prstenem na tučném prstě. Mohlo mu být tak sedmadvacet. Na sobě měl elegantní lehký svrchník, světlé letní kalhoty a vůbec všechno bylo jako ulité, švihácké, všecko svítilo novotou; prádlo měl bezvadné, řetízek u hodinek masivní. Jednal těžkopádně, skoro ochable, a přitom strojeně familiárně; co chvíli však prozrazoval nedůtklivost, třebaže ji všemožně skrýval. Všichni, kdo ho znali, ho pokládali za nepříjemného člověka, ale říkali, že se ve své práci vyzná.
 
 „Už dvakrát jsem u tebe byl, kamaráde… Heleď ho, už se probral!“ vykřikl Razumichin.

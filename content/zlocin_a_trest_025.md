@@ -3,8 +3,6 @@ title: '4'
 contentType: prose
 ---
 
-  
-
 Vtom se tiše otevřely dveře a do pokoje nesměle vešla nějaká dívka. Všichni se k ní udiveně a zvědavě otočili. Raskolnikov ji hned nepoznal. Byla to Sofja Semjonovna Marmeladovová. Poprvé ji viděl už včera, ale v takové chvíli, za takové situace a v takových šatech, že mu utkvěla v paměti úplně jiná podoba. Teď to byla prostě, ba nuzně oblečená dívka, ještě mladičká, spíš děvčátko, se skromným a slušným vystupováním a s jasným, ale trošku plachým obličejem. Měla na sobě docela jednoduché domácí šatečky, na hlavě starý, už nemoderní klobouček, jen v rukou měla jako včera paraplíčko. Když nenadále vkročila do světnice plné lidí, nejenže zrozpačitěla, ale úplně ztratila hlavu, polekala se jako malé děcko, a dokonce už couvla zpátky.
 
 „Ach…, to jste vy?“ řekl nadmíru překvapený Raskolnikov a náhle sám také upadl do zmatku.

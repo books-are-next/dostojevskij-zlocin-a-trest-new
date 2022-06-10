@@ -3,8 +3,6 @@ title: '2'
 contentType: prose
 ---
 
-  
-
 Bylo už skoro osm; oba pospíchali k Bakalejevovi, aby tam byli dříve než Lužin.
 
 „Kdopak to byl?“ zeptal se Razumichin, sotva vyšli na ulici.

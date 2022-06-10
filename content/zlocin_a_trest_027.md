@@ -3,8 +3,6 @@ title: '6'
 contentType: prose
 ---
 
-  
-
 „Tomu nevěřím! Tomu nemůžu věřit!“ stál na svém sklíčený Razumichin a tvrdošíjně vyvracel Raskolnikovovy domněnky. To už docházeli k Bakalejevovu penzionu, kde na ně Pulcherija Alexandrovna a Duňa dávno čekaly. Razumichin, pobouřený a rozčilený už jen z toho, že _o tom_ poprvé začali mluvit otevřeně, co chvíli se v zápalu řeči zastavoval.
 
 „Tak nevěř!“ ušklíbal se chladně a přezíravě Raskolnikov. „Tys jako obyčejně nic nepozoroval, ale já zato vážil každé slovo.“

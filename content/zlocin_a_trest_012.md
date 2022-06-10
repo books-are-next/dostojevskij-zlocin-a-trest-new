@@ -3,8 +3,6 @@ title: '7'
 contentType: prose
 ---
 
-  
-
 Dveře se stejně jako tehdy maličko pootevřely a uzoučkou škvírkou se na něho ze tmy opět upřely dvě pichlavé a nedůvěřivé oči. V tu chvíli ztratil klid a málem se dopustil těžké chyby.
 
 Ze strachu, aby stařenu nepolekalo, že jsou sami, i z pochybnosti, zda jeho vzhled rozptýlí její nedůvěru, vzal za dveře a přitahoval si je, aby ji snad nenapadlo znova se zavřít. Stará nato sice nepřirazila dveře zpátky, ale ani nepouštěla petlici z ruky, takže ji div nevytáhl ze dveří na chodbu. Viděl, že si stoupla tak, aby mu zahradila vstup, ale hrnul se přes ni. Stařena polekaně uhnula, chtěla cosi říct, ale nevypravila ze sebe ani slovo a jen na něho upírala široce rozevřené oči.

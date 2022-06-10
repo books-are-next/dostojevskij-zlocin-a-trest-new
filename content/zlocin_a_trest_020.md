@@ -3,8 +3,6 @@ title: '7'
 contentType: prose
 ---
 
-  
-
 Uprostřed ulice stál elegantní panský lehký kočár s párem bujných šedých koní; v kočáru nikdo neseděl, kočí slezl z kozlíku a přešlapoval vedle; koně někdo držel za uzdy. Okolo se tlačilo mnoho lidí, docela vpředu strážníci. Jeden držel rozsvícenou lucernu a sehnutý svítil na cosi na dlažbě, pod koly. Kolem bylo plno hovoru, zděšených výkřiků; kočí jako popletený občas opakoval:
 
 „Takové neštěstí! Panebože, takové neštěstí!“

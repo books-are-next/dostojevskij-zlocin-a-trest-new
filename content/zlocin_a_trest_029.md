@@ -3,8 +3,6 @@ title: '1'
 contentType: prose
 ---
 
-  
-
 Nesním ještě? napadlo znova Raskolnikova. Obezřetně a nedůvěřivě si prohlížel nenadálého hosta.
 
 „Svidrigaljov? Nesmysl! To není možné!“ vyhrkl konečně užasle. Jeho hosta ten výkřik, jak se zdálo, ani trochu nepřekvapil.

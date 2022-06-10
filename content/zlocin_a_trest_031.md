@@ -3,8 +3,6 @@ title: '3'
 contentType: prose
 ---
 
-  
-
 Jádro věci bylo v tom, že se do posledního okamžiku ani ve snu nenadál takového rozuzlení. Do poslední chvíle vystupoval velmi nadutě a vůbec nepřipouštěl možnost, že by se dvě chudé, jen a jen na sebe odkázané ženy mohly vymknout z jeho moci. Té jistotě mnoho napomohla jeho marnivost a takový stupeň sebevědomí, který by bylo případnější nazvat sebeláskou. To, že se vypracoval od píky, naplnilo Petra Petroviče nezdravým obdivem k vlastní osobě; velmi si vážil svého mozku a svých schopností a dokonce se někdy, když byl sám, kochal svou tváří v zrcadle. Ale nejvíc ze všeho lnul a tíhl ke svým penězům, které získal prací i různými jinými způsoby: povyšovaly ho nad jeho vlastní úroveň.
 
 Když nyní Duně trpce připomínal, že se rozhodl vzít si ji přes její špatnou pověst, mluvil Petr Petrovič naprosto upřímně, dokonce byl silně rozhořčen takovým „černým nevděkem“. Ale přitom, když se tehdy o Duňu ucházel, měl už bezpečné důkazy o nesmyslnosti všech těch klevet, veřejně vyvrácených samou Marfou Petrovnou a dávno už odvržených celým městečkem, které Duňu horlivě očistilo. Ani on sám by teď nepopřel, že to všecko věděl už tenkrát. A přesto si vysoko cenil odvahy, s níž Duňu vedle sebe povznesl, a pokládal to za hrdinský čin. Když to nyní říkal Duně, vyslovoval tím svou tajnou a zamilovanou myšlenku, v níž už se zhlížel tolikrát, a nemohl pochopit, jak je možné, že ostatní jeho hrdinství neokouzlilo. Když tehdy přišel navštívit Raskolnikova, vcházel tam s pocitem dobrodince připraveného sklidit zasloužené ovoce, totiž velice příjemné zdvořilůstky. Nebylo tedy divu, že nyní sestupoval ze schodů přesvědčen, že byl krutě uražen a zneuznán.

@@ -3,8 +3,6 @@ title: '5'
 contentType: prose
 ---
 
-  
-
 Pravda, chtěl jsem přece ještě nedávno jít k Razumichinovi prosit o nějakou práci, aby mi obstaral buď kondice, nebo cokoliv…, rozpomínal se Raskolnikov, ale čím mi může pomoct teď? Dejme tomu, že mi sežene kondice, dejme tomu, že se se mnou rozdělí o poslední kopějku, jestli nějakou má, takže si budu moct koupit boty a dát opravit šaty, abych mohl chodit na kondice… hm… Dobře, ale co dál? Co dokážu za pár měďáků? Copak tohle teď potřebuju? Opravdu směšné, jak jsem teď mohl jít k Razumichinovi…?
 
 Otázka, proč nyní šel k Razumichinovi, ho znepokojovala víc, než si přiznával; pln vnitřního neklidu hledal v tom zdánlivě nejvšednějším kroku jakýsi zlověstný význam.

@@ -3,8 +3,6 @@ title: '5'
 contentType: prose
 ---
 
-  
-
 Raskolnikov ho následoval.
 
 „Co to znamená!“ otočil se na něho s výkřikem Svidrigajlov. „Myslím, že jsem vám řekl…“
