@@ -13,6 +13,7 @@ meta:
   modified: '2020-01-14T00:00:00.000Z'
   publisherShort: mkp
   edition: beletrie
+  isbn: 978-80-274-2463-4
 readingOrder:
   - promo.html
   - zlocin_a_trest_005.html
