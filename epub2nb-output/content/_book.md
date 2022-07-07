@@ -64,7 +64,7 @@ readingOrder:
   - zlocin_a_trest_050.html
   - zlocin_a_trest_051.html
   - zlocin_a_trest_052.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

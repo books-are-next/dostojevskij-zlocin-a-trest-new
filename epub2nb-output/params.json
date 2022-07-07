@@ -65,7 +65,7 @@
             "filename": "zlocin_a_trest_003.md",
             "xhtml": "zlocin_a_trest_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -77,7 +77,7 @@
             "filename": "zlocin_a_trest_004.md",
             "xhtml": "zlocin_a_trest_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -720,7 +720,7 @@
             "filename": "zlocin_a_trest_053.md",
             "xhtml": "zlocin_a_trest_053.xhtml",
             "id": 52,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -1140,6 +1140,6 @@
       "user": "books-are-next",
       "repo": "dostojevskij-zlocin-a-trest-new"
     },
-    "generatedAt": 1655978262653
+    "generatedAt": 1657186989897
   }
 }
