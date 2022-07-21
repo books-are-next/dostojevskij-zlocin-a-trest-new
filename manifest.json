@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dostojevskij-zlocin-a-trest-a03f6bc",
-  "revision": "a03f6bc",
+  "identifier": "dostojevskij-zlocin-a-trest-e043165",
+  "revision": "e043165",
   "readingOrder": [
     "promo.html",
     "zlocin_a_trest_005.html",
@@ -63,8 +63,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 09:57:33 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657187853705
+    "date": "Thu Jul 21 2022 14:48:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414912124
   },
   "documents": [
     {
@@ -1043,7 +1043,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 146,
-      "chars": 965,
+      "chars": 966,
       "ideas": 18,
       "role": "about",
       "order": null,
@@ -1062,8 +1062,8 @@
   ],
   "totals": {
     "all": {
-      "words": 174473,
-      "chars": 1035764,
+      "words": 174474,
+      "chars": 1035760,
       "ideas": 3763
     },
     "chapters": {
