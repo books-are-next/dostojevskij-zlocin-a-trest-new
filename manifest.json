@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dostojevskij-zlocin-a-trest-b83e8cd",
-  "revision": "b83e8cd",
+  "identifier": "dostojevskij-zlocin-a-trest-95ea4de",
+  "revision": "95ea4de",
   "readingOrder": [
     "promo.html",
     "zlocin_a_trest_005.html",
@@ -63,8 +63,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:50:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639422571
+    "date": "Tue Oct 04 2022 16:36:11 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901371298
   },
   "documents": [
     {
